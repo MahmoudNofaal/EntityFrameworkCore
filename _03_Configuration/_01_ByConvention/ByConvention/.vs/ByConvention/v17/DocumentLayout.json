@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\EntityFrameworkCore\\_03_Configuration\\_01_ByConvention\\ByConvention\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2CA95582-CE31-4FB9-9B02-4FBBA71149DD}|ByConvention\\ByConvention.csproj|d:\\entityframeworkcore\\_03_configuration\\_01_byconvention\\byconvention\\byconvention\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CA95582-CE31-4FB9-9B02-4FBBA71149DD}|ByConvention\\ByConvention.csproj|solutionrelative:byconvention\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CA95582-CE31-4FB9-9B02-4FBBA71149DD}|ByConvention\\ByConvention.csproj|d:\\entityframeworkcore\\_03_configuration\\_01_byconvention\\byconvention\\byconvention\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CA95582-CE31-4FB9-9B02-4FBBA71149DD}|ByConvention\\ByConvention.csproj|solutionrelative:byconvention\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CA95582-CE31-4FB9-9B02-4FBBA71149DD}|ByConvention\\ByConvention.csproj|d:\\entityframeworkcore\\_03_configuration\\_01_byconvention\\byconvention\\byconvention\\entities\\tweet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CA95582-CE31-4FB9-9B02-4FBBA71149DD}|ByConvention\\ByConvention.csproj|solutionrelative:byconvention\\entities\\tweet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CA95582-CE31-4FB9-9B02-4FBBA71149DD}|ByConvention\\ByConvention.csproj|d:\\entityframeworkcore\\_03_configuration\\_01_byconvention\\byconvention\\byconvention\\entities\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CA95582-CE31-4FB9-9B02-4FBBA71149DD}|ByConvention\\ByConvention.csproj|solutionrelative:byconvention\\entities\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CA95582-CE31-4FB9-9B02-4FBBA71149DD}|ByConvention\\ByConvention.csproj|d:\\entityframeworkcore\\_03_configuration\\_01_byconvention\\byconvention\\byconvention\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CA95582-CE31-4FB9-9B02-4FBBA71149DD}|ByConvention\\ByConvention.csproj|solutionrelative:byconvention\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CA95582-CE31-4FB9-9B02-4FBBA71149DD}|ByConvention\\ByConvention.csproj|d:\\entityframeworkcore\\_03_configuration\\_01_byconvention\\byconvention\\byconvention\\byconvention.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2CA95582-CE31-4FB9-9B02-4FBBA71149DD}|ByConvention\\ByConvention.csproj|solutionrelative:byconvention\\byconvention.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\EntityFrameworkCore\\_03_Configuration\\_01_ByConvention\\ByConvention\\ByConvention\\Program.cs",
+              "RelativeDocumentMoniker": "ByConvention\\Program.cs",
+              "ToolTip": "D:\\EntityFrameworkCore\\_03_Configuration\\_01_ByConvention\\ByConvention\\ByConvention\\Program.cs",
+              "RelativeToolTip": "ByConvention\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAYwBEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T14:17:31.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\EntityFrameworkCore\\_03_Configuration\\_01_ByConvention\\ByConvention\\ByConvention\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "ByConvention\\Entities\\User.cs",
+              "ToolTip": "D:\\EntityFrameworkCore\\_03_Configuration\\_01_ByConvention\\ByConvention\\ByConvention\\Entities\\User.cs",
+              "RelativeToolTip": "ByConvention\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T14:17:29.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Tweet.cs",
+              "DocumentMoniker": "D:\\EntityFrameworkCore\\_03_Configuration\\_01_ByConvention\\ByConvention\\ByConvention\\Entities\\Tweet.cs",
+              "RelativeDocumentMoniker": "ByConvention\\Entities\\Tweet.cs",
+              "ToolTip": "D:\\EntityFrameworkCore\\_03_Configuration\\_01_ByConvention\\ByConvention\\ByConvention\\Entities\\Tweet.cs",
+              "RelativeToolTip": "ByConvention\\Entities\\Tweet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T14:17:27.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "D:\\EntityFrameworkCore\\_03_Configuration\\_01_ByConvention\\ByConvention\\ByConvention\\Entities\\Comment.cs",
+              "RelativeDocumentMoniker": "ByConvention\\Entities\\Comment.cs",
+              "ToolTip": "D:\\EntityFrameworkCore\\_03_Configuration\\_01_ByConvention\\ByConvention\\ByConvention\\Entities\\Comment.cs",
+              "RelativeToolTip": "ByConvention\\Entities\\Comment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T14:17:26.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\EntityFrameworkCore\\_03_Configuration\\_01_ByConvention\\ByConvention\\ByConvention\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ByConvention\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\EntityFrameworkCore\\_03_Configuration\\_01_ByConvention\\ByConvention\\ByConvention\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "ByConvention\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T14:17:22.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ByConvention",
+              "DocumentMoniker": "D:\\EntityFrameworkCore\\_03_Configuration\\_01_ByConvention\\ByConvention\\ByConvention\\ByConvention.csproj",
+              "RelativeDocumentMoniker": "ByConvention\\ByConvention.csproj",
+              "ToolTip": "D:\\EntityFrameworkCore\\_03_Configuration\\_01_ByConvention\\ByConvention\\ByConvention\\ByConvention.csproj",
+              "RelativeToolTip": "ByConvention\\ByConvention.csproj",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAiwB8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-22T14:16:33.071Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{5a4e9529-b6a0-46b5-be4f-0f0b239bc0eb}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

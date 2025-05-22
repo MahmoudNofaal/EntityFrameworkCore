@@ -1,0 +1,300 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\EntityFrameworkCore\\_09_RawSqlQuery\\_03_CallingStoredProcedure\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97542525-0E40-418B-BC00-2319BD1D5C41}|ConsoleApp1\\ConsoleApp1.csproj|d:\\entityframeworkcore\\_09_rawsqlquery\\_03_callingstoredprocedure\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97542525-0E40-418B-BC00-2319BD1D5C41}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97542525-0E40-418B-BC00-2319BD1D5C41}|ConsoleApp1\\ConsoleApp1.csproj|d:\\entityframeworkcore\\_09_rawsqlquery\\_03_callingstoredprocedure\\consoleapp1\\consoleapp1\\enums\\scheduletype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97542525-0E40-418B-BC00-2319BD1D5C41}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\enums\\scheduletype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97542525-0E40-418B-BC00-2319BD1D5C41}|ConsoleApp1\\ConsoleApp1.csproj|d:\\entityframeworkcore\\_09_rawsqlquery\\_03_callingstoredprocedure\\consoleapp1\\consoleapp1\\enums\\scheduleenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97542525-0E40-418B-BC00-2319BD1D5C41}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\enums\\scheduleenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97542525-0E40-418B-BC00-2319BD1D5C41}|ConsoleApp1\\ConsoleApp1.csproj|d:\\entityframeworkcore\\_09_rawsqlquery\\_03_callingstoredprocedure\\consoleapp1\\consoleapp1\\entities\\sectiondetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97542525-0E40-418B-BC00-2319BD1D5C41}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\entities\\sectiondetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97542525-0E40-418B-BC00-2319BD1D5C41}|ConsoleApp1\\ConsoleApp1.csproj|d:\\entityframeworkcore\\_09_rawsqlquery\\_03_callingstoredprocedure\\consoleapp1\\consoleapp1\\entities\\section.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97542525-0E40-418B-BC00-2319BD1D5C41}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\entities\\section.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97542525-0E40-418B-BC00-2319BD1D5C41}|ConsoleApp1\\ConsoleApp1.csproj|d:\\entityframeworkcore\\_09_rawsqlquery\\_03_callingstoredprocedure\\consoleapp1\\consoleapp1\\entities\\office.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97542525-0E40-418B-BC00-2319BD1D5C41}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\entities\\office.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97542525-0E40-418B-BC00-2319BD1D5C41}|ConsoleApp1\\ConsoleApp1.csproj|d:\\entityframeworkcore\\_09_rawsqlquery\\_03_callingstoredprocedure\\consoleapp1\\consoleapp1\\entities\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97542525-0E40-418B-BC00-2319BD1D5C41}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\entities\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97542525-0E40-418B-BC00-2319BD1D5C41}|ConsoleApp1\\ConsoleApp1.csproj|d:\\entityframeworkcore\\_09_rawsqlquery\\_03_callingstoredprocedure\\consoleapp1\\consoleapp1\\entities\\individual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97542525-0E40-418B-BC00-2319BD1D5C41}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\entities\\individual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97542525-0E40-418B-BC00-2319BD1D5C41}|ConsoleApp1\\ConsoleApp1.csproj|d:\\entityframeworkcore\\_09_rawsqlquery\\_03_callingstoredprocedure\\consoleapp1\\consoleapp1\\entities\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97542525-0E40-418B-BC00-2319BD1D5C41}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\entities\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97542525-0E40-418B-BC00-2319BD1D5C41}|ConsoleApp1\\ConsoleApp1.csproj|d:\\entityframeworkcore\\_09_rawsqlquery\\_03_callingstoredprocedure\\consoleapp1\\consoleapp1\\entities\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97542525-0E40-418B-BC00-2319BD1D5C41}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\entities\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97542525-0E40-418B-BC00-2319BD1D5C41}|ConsoleApp1\\ConsoleApp1.csproj|d:\\entityframeworkcore\\_09_rawsqlquery\\_03_callingstoredprocedure\\consoleapp1\\consoleapp1\\entities\\daterange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97542525-0E40-418B-BC00-2319BD1D5C41}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\entities\\daterange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97542525-0E40-418B-BC00-2319BD1D5C41}|ConsoleApp1\\ConsoleApp1.csproj|d:\\entityframeworkcore\\_09_rawsqlquery\\_03_callingstoredprocedure\\consoleapp1\\consoleapp1\\entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97542525-0E40-418B-BC00-2319BD1D5C41}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ScheduleType.cs",
+              "DocumentMoniker": "D:\\EntityFrameworkCore\\_09_RawSqlQuery\\_03_CallingStoredProcedure\\ConsoleApp1\\ConsoleApp1\\Enums\\ScheduleType.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Enums\\ScheduleType.cs",
+              "ToolTip": "D:\\EntityFrameworkCore\\_09_RawSqlQuery\\_03_CallingStoredProcedure\\ConsoleApp1\\ConsoleApp1\\Enums\\ScheduleType.cs",
+              "RelativeToolTip": "ConsoleApp1\\Enums\\ScheduleType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T22:23:11.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ScheduleEnum.cs",
+              "DocumentMoniker": "D:\\EntityFrameworkCore\\_09_RawSqlQuery\\_03_CallingStoredProcedure\\ConsoleApp1\\ConsoleApp1\\Enums\\ScheduleEnum.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Enums\\ScheduleEnum.cs",
+              "ToolTip": "D:\\EntityFrameworkCore\\_09_RawSqlQuery\\_03_CallingStoredProcedure\\ConsoleApp1\\ConsoleApp1\\Enums\\ScheduleEnum.cs",
+              "RelativeToolTip": "ConsoleApp1\\Enums\\ScheduleEnum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T22:23:10.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SectionDetails.cs",
+              "DocumentMoniker": "D:\\EntityFrameworkCore\\_09_RawSqlQuery\\_03_CallingStoredProcedure\\ConsoleApp1\\ConsoleApp1\\Entities\\SectionDetails.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Entities\\SectionDetails.cs",
+              "ToolTip": "D:\\EntityFrameworkCore\\_09_RawSqlQuery\\_03_CallingStoredProcedure\\ConsoleApp1\\ConsoleApp1\\Entities\\SectionDetails.cs",
+              "RelativeToolTip": "ConsoleApp1\\Entities\\SectionDetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T22:22:55.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Section.cs",
+              "DocumentMoniker": "D:\\EntityFrameworkCore\\_09_RawSqlQuery\\_03_CallingStoredProcedure\\ConsoleApp1\\ConsoleApp1\\Entities\\Section.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Entities\\Section.cs",
+              "ToolTip": "D:\\EntityFrameworkCore\\_09_RawSqlQuery\\_03_CallingStoredProcedure\\ConsoleApp1\\ConsoleApp1\\Entities\\Section.cs",
+              "RelativeToolTip": "ConsoleApp1\\Entities\\Section.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T22:22:28.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Office.cs",
+              "DocumentMoniker": "D:\\EntityFrameworkCore\\_09_RawSqlQuery\\_03_CallingStoredProcedure\\ConsoleApp1\\ConsoleApp1\\Entities\\Office.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Entities\\Office.cs",
+              "ToolTip": "D:\\EntityFrameworkCore\\_09_RawSqlQuery\\_03_CallingStoredProcedure\\ConsoleApp1\\ConsoleApp1\\Entities\\Office.cs",
+              "RelativeToolTip": "ConsoleApp1\\Entities\\Office.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T22:22:22.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Instructor.cs",
+              "DocumentMoniker": "D:\\EntityFrameworkCore\\_09_RawSqlQuery\\_03_CallingStoredProcedure\\ConsoleApp1\\ConsoleApp1\\Entities\\Instructor.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Entities\\Instructor.cs",
+              "ToolTip": "D:\\EntityFrameworkCore\\_09_RawSqlQuery\\_03_CallingStoredProcedure\\ConsoleApp1\\ConsoleApp1\\Entities\\Instructor.cs",
+              "RelativeToolTip": "ConsoleApp1\\Entities\\Instructor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T22:22:21.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Individual.cs",
+              "DocumentMoniker": "D:\\EntityFrameworkCore\\_09_RawSqlQuery\\_03_CallingStoredProcedure\\ConsoleApp1\\ConsoleApp1\\Entities\\Individual.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Entities\\Individual.cs",
+              "ToolTip": "D:\\EntityFrameworkCore\\_09_RawSqlQuery\\_03_CallingStoredProcedure\\ConsoleApp1\\ConsoleApp1\\Entities\\Individual.cs",
+              "RelativeToolTip": "ConsoleApp1\\Entities\\Individual.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T22:22:19.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Entity.cs",
+              "DocumentMoniker": "D:\\EntityFrameworkCore\\_09_RawSqlQuery\\_03_CallingStoredProcedure\\ConsoleApp1\\ConsoleApp1\\Entities\\Entity.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Entities\\Entity.cs",
+              "ToolTip": "D:\\EntityFrameworkCore\\_09_RawSqlQuery\\_03_CallingStoredProcedure\\ConsoleApp1\\ConsoleApp1\\Entities\\Entity.cs",
+              "RelativeToolTip": "ConsoleApp1\\Entities\\Entity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T22:22:18.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\EntityFrameworkCore\\_09_RawSqlQuery\\_03_CallingStoredProcedure\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "D:\\EntityFrameworkCore\\_09_RawSqlQuery\\_03_CallingStoredProcedure\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T22:20:18.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Enrollment.cs",
+              "DocumentMoniker": "D:\\EntityFrameworkCore\\_09_RawSqlQuery\\_03_CallingStoredProcedure\\ConsoleApp1\\ConsoleApp1\\Entities\\Enrollment.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Entities\\Enrollment.cs",
+              "ToolTip": "D:\\EntityFrameworkCore\\_09_RawSqlQuery\\_03_CallingStoredProcedure\\ConsoleApp1\\ConsoleApp1\\Entities\\Enrollment.cs",
+              "RelativeToolTip": "ConsoleApp1\\Entities\\Enrollment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T22:22:16.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DateRange.cs",
+              "DocumentMoniker": "D:\\EntityFrameworkCore\\_09_RawSqlQuery\\_03_CallingStoredProcedure\\ConsoleApp1\\ConsoleApp1\\Entities\\DateRange.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Entities\\DateRange.cs",
+              "ToolTip": "D:\\EntityFrameworkCore\\_09_RawSqlQuery\\_03_CallingStoredProcedure\\ConsoleApp1\\ConsoleApp1\\Entities\\DateRange.cs",
+              "RelativeToolTip": "ConsoleApp1\\Entities\\DateRange.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T22:22:15.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Course.cs",
+              "DocumentMoniker": "D:\\EntityFrameworkCore\\_09_RawSqlQuery\\_03_CallingStoredProcedure\\ConsoleApp1\\ConsoleApp1\\Entities\\Course.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Entities\\Course.cs",
+              "ToolTip": "D:\\EntityFrameworkCore\\_09_RawSqlQuery\\_03_CallingStoredProcedure\\ConsoleApp1\\ConsoleApp1\\Entities\\Course.cs",
+              "RelativeToolTip": "ConsoleApp1\\Entities\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T22:22:07.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{5a4e9529-b6a0-46b5-be4f-0f0b239bc0eb}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
