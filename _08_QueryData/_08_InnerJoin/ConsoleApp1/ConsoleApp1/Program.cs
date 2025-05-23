@@ -3,6 +3,17 @@ using Microsoft.EntityFrameworkCore;
 
 namespace ConsoleApp1;
 
+/// Inner Join: retrieves records where there is a match in both tables, using [Join()] or LINQ syntax.
+///
+///-> Use [Join()] to explicitly define the join condition, or rely on navigation properties
+///   with [Include()].
+///
+///
+///
+///
+///
+///
+
 internal class Program
 {
    static void Main(string[] args)

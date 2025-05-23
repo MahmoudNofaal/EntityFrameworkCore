@@ -3,6 +3,14 @@ using Microsoft.EntityFrameworkCore;
 
 namespace ConsoleApp1;
 
+/// Eager Loading: retrieve data in a single query using [Include()]
+///- Load related entities along with the main entity using [Include()] or [ThenInclude()]
+///  for nested relationships.
+///-> EF Core generates a SQL JOIN to fetch related data in one query.
+///-> Reduces multiple database roundtrips, improving performance for scenarios needing related data.
+///
+/// 
+
 internal class Program
 {
    static void Main(string[] args)

@@ -3,6 +3,10 @@ using ConsoleApp1.Data;
 
 namespace ConsoleApp1;
 
+/// SelectMany: flattens collections into a single result set, often used for working with
+///             collection navigation properties.
+///- EX: List all books for a specific categories of author.
+
 internal class Program
 {
    static void Main(string[] args)

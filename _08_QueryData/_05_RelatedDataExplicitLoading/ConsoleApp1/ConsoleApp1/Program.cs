@@ -3,6 +3,11 @@ using ConsoleApp1.Data;
 
 namespace ConsoleApp1;
 
+/// Explicit Loading: loads related data onDemand after the initial query, using [Load()]
+///- Load related data for a specific entity using [Entry().Reference()] or [Entry().Collection()].
+///-> After fetching an entity, explicitly load related data with a separate query.
+/// 
+
 internal class Program
 {
    static void Main(string[] args)

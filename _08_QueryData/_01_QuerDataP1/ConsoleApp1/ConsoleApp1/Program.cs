@@ -3,6 +3,10 @@ using Microsoft.EntityFrameworkCore;
 
 namespace ConsoleApp1;
 
+/// Query Data: means retrieving entites from the database using LINQ or RawSQL
+/// - we use it as type-safe, readable queries, reducing the need of raw sql and supporting
+///   complex filtering, sorting,..
+
 class Program
 {
    public static void Main(string[] args)

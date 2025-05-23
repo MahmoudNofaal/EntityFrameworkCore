@@ -1,14 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\EntityFrameworkCore\\_07_CreateAndDropAPI\\_02_SeedData\\ConsoleApp1\\",
+  "WorkspaceRootPath": "D:\\WORK\\Backend\\.Net\\Materials Codes\\EntityFrameworkCore\\_07_CreateAndDropAPI\\_02_SeedData\\ConsoleApp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F0513A9F-E47C-4287-A265-6E8A29AAD233}|ConsoleApp1\\ConsoleApp1.csproj|d:\\entityframeworkcore\\_07_createanddropapi\\_02_seeddata\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F0513A9F-E47C-4287-A265-6E8A29AAD233}|ConsoleApp1\\ConsoleApp1.csproj|d:\\work\\backend\\.net\\materials codes\\entityframeworkcore\\_07_createanddropapi\\_02_seeddata\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F0513A9F-E47C-4287-A265-6E8A29AAD233}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F0513A9F-E47C-4287-A265-6E8A29AAD233}|ConsoleApp1\\ConsoleApp1.csproj|d:\\entityframeworkcore\\_07_createanddropapi\\_02_seeddata\\consoleapp1\\consoleapp1\\consoleapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{F0513A9F-E47C-4287-A265-6E8A29AAD233}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\consoleapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,26 +58,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ConsoleApp1",
-              "DocumentMoniker": "D:\\EntityFrameworkCore\\_07_CreateAndDropAPI\\_02_SeedData\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
-              "RelativeDocumentMoniker": "ConsoleApp1\\ConsoleApp1.csproj",
-              "ToolTip": "D:\\EntityFrameworkCore\\_07_CreateAndDropAPI\\_02_SeedData\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
-              "RelativeToolTip": "ConsoleApp1\\ConsoleApp1.csproj",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAiwB8AAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-22T14:47:55.093Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\EntityFrameworkCore\\_07_CreateAndDropAPI\\_02_SeedData\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "DocumentMoniker": "D:\\WORK\\Backend\\.Net\\Materials Codes\\EntityFrameworkCore\\_07_CreateAndDropAPI\\_02_SeedData\\ConsoleApp1\\ConsoleApp1\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
-              "ToolTip": "D:\\EntityFrameworkCore\\_07_CreateAndDropAPI\\_02_SeedData\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "ToolTip": "D:\\WORK\\Backend\\.Net\\Materials Codes\\EntityFrameworkCore\\_07_CreateAndDropAPI\\_02_SeedData\\ConsoleApp1\\ConsoleApp1\\Program.cs",
               "RelativeToolTip": "ConsoleApp1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-22T14:47:50.748Z",
               "EditorCaption": ""

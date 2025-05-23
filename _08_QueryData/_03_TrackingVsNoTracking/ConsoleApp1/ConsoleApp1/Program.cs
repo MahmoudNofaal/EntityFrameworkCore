@@ -3,6 +3,16 @@ using ConsoleApp1.Data;
 
 namespace ConsoleApp1;
 
+/// Tracking Vs No Tracking
+/// Tracking: EfCore tracks entities, enable change detection for updates (that is default behavior).
+/// No-Tracking: Entities are not tracked, improving performance for read-only queries.
+/// 
+/// -> Use [AsNoTracking()] to disable tracking.
+/// -> Tracked entities are stored in the [DbContext] change tracker, which monitors changes
+///    for [SaveChanges()];
+/// -> No-tracking queries are faster and use less memory, ideal for read-only queries
+/// 
+
 internal class Program
 {
    public static void Main(string[] args)

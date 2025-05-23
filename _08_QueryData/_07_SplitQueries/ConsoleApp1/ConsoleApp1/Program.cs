@@ -3,6 +3,16 @@ using Microsoft.EntityFrameworkCore;
 
 namespace ConsoleApp1;
 
+/// Split queries: split a single LINQ query with multiple [Include()] calls into separate
+///                SQL queries to avoid complex joins.
+///
+///-> Instead of generating a single SQL query with multiple JOINs
+///-> Use AsSplitQuery() to instruct EF Core to split the query.
+///
+///
+///
+///
+
 internal class Program
 {
    static void Main(string[] args)

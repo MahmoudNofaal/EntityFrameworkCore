@@ -3,6 +3,15 @@ using Microsoft.EntityFrameworkCore;
 
 namespace ConsoleApp1;
 
+/// Server Evaluation: EfCore transalte LINQ to SQL for execution on the database (ex: where, orderby)
+/// Client Evaluation: If LINQ expression cannot be transalted to SQL (ex: complexx C# logic), EfCore
+///                    evaluates it in memory after fetching data.
+///
+///-> How it works: EfCore tries to translate the entire query to SQL. if any part fails, it
+///                 fetch data and processed it on the client.
+///
+
+
 internal class Program
 {
    public static void Main(string[] args)

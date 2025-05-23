@@ -2,6 +2,15 @@
 
 namespace ConsoleApp1;
 
+/// Left Join: retrieves all records from the left entity and matching records from the right,
+///            with null for non-matches.
+/// 
+///-> Includes all records from the primary entity (ex: Books), even if there is no related
+///   data (ex: Categories).
+///-> Use [GroupJoin()] with SelectMany and [DefaultIfEmpty()] to create a left join.
+///
+///
+
 internal class Program
 {
    static void Main(string[] args)

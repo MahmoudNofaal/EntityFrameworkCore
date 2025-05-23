@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\EntityFrameworkCore\\_08_QueryData\\_07_SplitQueries\\ConsoleApp1\\",
+  "WorkspaceRootPath": "D:\\WORK\\Backend\\.Net\\Materials Codes\\EntityFrameworkCore\\_08_QueryData\\_07_SplitQueries\\ConsoleApp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4D17CE67-473A-44BF-92B5-E42EE765461F}|ConsoleApp1\\ConsoleApp1.csproj|d:\\entityframeworkcore\\_08_querydata\\_07_splitqueries\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4D17CE67-473A-44BF-92B5-E42EE765461F}|ConsoleApp1\\ConsoleApp1.csproj|d:\\work\\backend\\.net\\materials codes\\entityframeworkcore\\_08_querydata\\_07_splitqueries\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4D17CE67-473A-44BF-92B5-E42EE765461F}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D17CE67-473A-44BF-92B5-E42EE765461F}|ConsoleApp1\\ConsoleApp1.csproj|d:\\entityframeworkcore\\_08_querydata\\_07_splitqueries\\consoleapp1\\consoleapp1\\consoleapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{4D17CE67-473A-44BF-92B5-E42EE765461F}|ConsoleApp1\\ConsoleApp1.csproj|d:\\work\\backend\\.net\\materials codes\\entityframeworkcore\\_08_querydata\\_07_splitqueries\\consoleapp1\\consoleapp1\\consoleapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{4D17CE67-473A-44BF-92B5-E42EE765461F}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\consoleapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
@@ -63,25 +63,24 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ConsoleApp1",
-              "DocumentMoniker": "D:\\EntityFrameworkCore\\_08_QueryData\\_07_SplitQueries\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+              "Title": "ConsoleApp1.csproj",
+              "DocumentMoniker": "D:\\WORK\\Backend\\.Net\\Materials Codes\\EntityFrameworkCore\\_08_QueryData\\_07_SplitQueries\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
               "RelativeDocumentMoniker": "ConsoleApp1\\ConsoleApp1.csproj",
-              "ToolTip": "D:\\EntityFrameworkCore\\_08_QueryData\\_07_SplitQueries\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+              "ToolTip": "D:\\WORK\\Backend\\.Net\\Materials Codes\\EntityFrameworkCore\\_08_QueryData\\_07_SplitQueries\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
               "RelativeToolTip": "ConsoleApp1\\ConsoleApp1.csproj",
               "ViewState": "AgIAAAgAAAAAAAAAAAAiwB8AAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-22T15:05:59.139Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-22T15:05:59.139Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\EntityFrameworkCore\\_08_QueryData\\_07_SplitQueries\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "DocumentMoniker": "D:\\WORK\\Backend\\.Net\\Materials Codes\\EntityFrameworkCore\\_08_QueryData\\_07_SplitQueries\\ConsoleApp1\\ConsoleApp1\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
-              "ToolTip": "D:\\EntityFrameworkCore\\_08_QueryData\\_07_SplitQueries\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "ToolTip": "D:\\WORK\\Backend\\.Net\\Materials Codes\\EntityFrameworkCore\\_08_QueryData\\_07_SplitQueries\\ConsoleApp1\\ConsoleApp1\\Program.cs",
               "RelativeToolTip": "ConsoleApp1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-22T15:05:24.456Z",
               "EditorCaption": ""

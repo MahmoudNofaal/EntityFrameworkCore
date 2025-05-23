@@ -3,6 +3,13 @@ using Microsoft.EntityFrameworkCore;
 
 namespace ConsoleApp1;
 
+/// SqlQuery allows executing raw SQL queries that map directly to entities.
+/// 
+///-> Use [FromSql] or [SqlQuery] to execute raw SQL and map results to entities.
+/// 
+/// 
+/// 
+
 class Program
 {
    public static void Main(string[] args)
