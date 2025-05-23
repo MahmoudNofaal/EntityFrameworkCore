@@ -11,6 +11,7 @@ internal class Program
    /// * It handles situations where multiple users or processes attempt to modify the same data
    ///   simulationeusly.
    /// * EFCore uses optimistic concurrency by default.
+   /// 
 
    static void Main(string[] args)
    {
@@ -28,6 +29,7 @@ internal class Program
                        .Options;
 
       // simulate two users updating the same wallet
+      // using two DbContext instances
       using (var _context01 = new AppDbContext(options))
       using (var _context02 = new AppDbContext(options))
       {

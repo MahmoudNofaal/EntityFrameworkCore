@@ -5,6 +5,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{A995B920-F9F0-46BD-9C9A-6577CE896DAB}|ConsoleApp1\\ConsoleApp1.csproj|d:\\work\\backend\\.net\\materials codes\\entityframeworkcore\\_03_configuration\\_03_overrideconfigurationusingfluentapi\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A995B920-F9F0-46BD-9C9A-6577CE896DAB}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A995B920-F9F0-46BD-9C9A-6577CE896DAB}|ConsoleApp1\\ConsoleApp1.csproj|d:\\work\\backend\\.net\\materials codes\\entityframeworkcore\\_03_configuration\\_03_overrideconfigurationusingfluentapi\\consoleapp1\\consoleapp1\\entities\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A995B920-F9F0-46BD-9C9A-6577CE896DAB}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\entities\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A995B920-F9F0-46BD-9C9A-6577CE896DAB}|ConsoleApp1\\ConsoleApp1.csproj|d:\\work\\backend\\.net\\materials codes\\entityframeworkcore\\_03_configuration\\_03_overrideconfigurationusingfluentapi\\consoleapp1\\consoleapp1\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A995B920-F9F0-46BD-9C9A-6577CE896DAB}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,13 +66,39 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "D:\\WORK\\Backend\\.Net\\Materials Codes\\EntityFrameworkCore\\_03_Configuration\\_03_OverrideConfigurationUsingFluentAPI\\ConsoleApp1\\ConsoleApp1\\Entities\\Comment.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Entities\\Comment.cs",
+              "ToolTip": "D:\\WORK\\Backend\\.Net\\Materials Codes\\EntityFrameworkCore\\_03_Configuration\\_03_OverrideConfigurationUsingFluentAPI\\ConsoleApp1\\ConsoleApp1\\Entities\\Comment.cs",
+              "RelativeToolTip": "ConsoleApp1\\Entities\\Comment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T14:40:35.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\WORK\\Backend\\.Net\\Materials Codes\\EntityFrameworkCore\\_03_Configuration\\_03_OverrideConfigurationUsingFluentAPI\\ConsoleApp1\\ConsoleApp1\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\WORK\\Backend\\.Net\\Materials Codes\\EntityFrameworkCore\\_03_Configuration\\_03_OverrideConfigurationUsingFluentAPI\\ConsoleApp1\\ConsoleApp1\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "ConsoleApp1\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAiwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T14:40:30.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\WORK\\Backend\\.Net\\Materials Codes\\EntityFrameworkCore\\_03_Configuration\\_03_OverrideConfigurationUsingFluentAPI\\ConsoleApp1\\ConsoleApp1\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
               "ToolTip": "D:\\WORK\\Backend\\.Net\\Materials Codes\\EntityFrameworkCore\\_03_Configuration\\_03_OverrideConfigurationUsingFluentAPI\\ConsoleApp1\\ConsoleApp1\\Program.cs",
               "RelativeToolTip": "ConsoleApp1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABHAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAAAiwDQAAABPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-22T23:42:55.211Z",
               "EditorCaption": ""

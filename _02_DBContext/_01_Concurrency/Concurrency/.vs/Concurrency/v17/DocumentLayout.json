@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "D:\\WORK\\Backend\\.Net\\Materials Codes\\EntityFrameworkCore\\_02_DBContext\\_01_Concurrency\\Concurrency\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8EAD9676-CED0-46B9-BE51-9A48DA44B593}|Concurrency\\Concurrency.csproj|d:\\work\\backend\\.net\\materials codes\\entityframeworkcore\\_02_dbcontext\\_01_concurrency\\concurrency\\concurrency\\entities\\wallet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EAD9676-CED0-46B9-BE51-9A48DA44B593}|Concurrency\\Concurrency.csproj|solutionrelative:concurrency\\entities\\wallet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EAD9676-CED0-46B9-BE51-9A48DA44B593}|Concurrency\\Concurrency.csproj|d:\\work\\backend\\.net\\materials codes\\entityframeworkcore\\_02_dbcontext\\_01_concurrency\\concurrency\\concurrency\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EAD9676-CED0-46B9-BE51-9A48DA44B593}|Concurrency\\Concurrency.csproj|solutionrelative:concurrency\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8EAD9676-CED0-46B9-BE51-9A48DA44B593}|Concurrency\\Concurrency.csproj|d:\\work\\backend\\.net\\materials codes\\entityframeworkcore\\_02_dbcontext\\_01_concurrency\\concurrency\\concurrency\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8EAD9676-CED0-46B9-BE51-9A48DA44B593}|Concurrency\\Concurrency.csproj|solutionrelative:concurrency\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -59,12 +67,38 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Wallet.cs",
+              "DocumentMoniker": "D:\\WORK\\Backend\\.Net\\Materials Codes\\EntityFrameworkCore\\_02_DBContext\\_01_Concurrency\\Concurrency\\Concurrency\\Entities\\Wallet.cs",
+              "RelativeDocumentMoniker": "Concurrency\\Entities\\Wallet.cs",
+              "ToolTip": "D:\\WORK\\Backend\\.Net\\Materials Codes\\EntityFrameworkCore\\_02_DBContext\\_01_Concurrency\\Concurrency\\Concurrency\\Entities\\Wallet.cs",
+              "RelativeToolTip": "Concurrency\\Entities\\Wallet.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T14:18:11.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\WORK\\Backend\\.Net\\Materials Codes\\EntityFrameworkCore\\_02_DBContext\\_01_Concurrency\\Concurrency\\Concurrency\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Concurrency\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\WORK\\Backend\\.Net\\Materials Codes\\EntityFrameworkCore\\_02_DBContext\\_01_Concurrency\\Concurrency\\Concurrency\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Concurrency\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T14:18:06.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\WORK\\Backend\\.Net\\Materials Codes\\EntityFrameworkCore\\_02_DBContext\\_01_Concurrency\\Concurrency\\Concurrency\\Program.cs",
               "RelativeDocumentMoniker": "Concurrency\\Program.cs",
               "ToolTip": "D:\\WORK\\Backend\\.Net\\Materials Codes\\EntityFrameworkCore\\_02_DBContext\\_01_Concurrency\\Concurrency\\Concurrency\\Program.cs",
               "RelativeToolTip": "Concurrency\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADcAAAAAAAAAAAAowB8AAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-22T23:05:25.227Z",
               "EditorCaption": ""

@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\WORK\\Backend\\.Net\\Materials Codes\\EntityFrameworkCore\\_02_DBContext\\_04_DBContextLifeTime\\DBContextLifeTime\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{75D7CD82-720C-43B1-A992-FAAA463D8EF8}|DBContextLifeTime\\DBContextLifeTime.csproj|d:\\work\\backend\\.net\\materials codes\\entityframeworkcore\\_02_dbcontext\\_04_dbcontextlifetime\\dbcontextlifetime\\dbcontextlifetime\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{75D7CD82-720C-43B1-A992-FAAA463D8EF8}|DBContextLifeTime\\DBContextLifeTime.csproj|solutionrelative:dbcontextlifetime\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{75D7CD82-720C-43B1-A992-FAAA463D8EF8}|DBContextLifeTime\\DBContextLifeTime.csproj|d:\\work\\backend\\.net\\materials codes\\entityframeworkcore\\_02_dbcontext\\_04_dbcontextlifetime\\dbcontextlifetime\\dbcontextlifetime\\entities\\wallet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{75D7CD82-720C-43B1-A992-FAAA463D8EF8}|DBContextLifeTime\\DBContextLifeTime.csproj|solutionrelative:dbcontextlifetime\\entities\\wallet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{75D7CD82-720C-43B1-A992-FAAA463D8EF8}|DBContextLifeTime\\DBContextLifeTime.csproj|d:\\work\\backend\\.net\\materials codes\\entityframeworkcore\\_02_dbcontext\\_04_dbcontextlifetime\\dbcontextlifetime\\dbcontextlifetime\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{75D7CD82-720C-43B1-A992-FAAA463D8EF8}|DBContextLifeTime\\DBContextLifeTime.csproj|solutionrelative:dbcontextlifetime\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75D7CD82-720C-43B1-A992-FAAA463D8EF8}|DBContextLifeTime\\DBContextLifeTime.csproj|d:\\work\\backend\\.net\\materials codes\\entityframeworkcore\\_02_dbcontext\\_04_dbcontextlifetime\\dbcontextlifetime\\dbcontextlifetime\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75D7CD82-720C-43B1-A992-FAAA463D8EF8}|DBContextLifeTime\\DBContextLifeTime.csproj|solutionrelative:dbcontextlifetime\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{75D7CD82-720C-43B1-A992-FAAA463D8EF8}|DBContextLifeTime\\DBContextLifeTime.csproj|d:\\work\\backend\\.net\\materials codes\\entityframeworkcore\\_02_dbcontext\\_04_dbcontextlifetime\\dbcontextlifetime\\dbcontextlifetime\\dbcontextlifetime.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 13,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -70,7 +70,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Wallet.cs",
               "DocumentMoniker": "D:\\WORK\\Backend\\.Net\\Materials Codes\\EntityFrameworkCore\\_02_DBContext\\_04_DBContextLifeTime\\DBContextLifeTime\\DBContextLifeTime\\Entities\\Wallet.cs",
               "RelativeDocumentMoniker": "DBContextLifeTime\\Entities\\Wallet.cs",
@@ -78,19 +78,21 @@
               "RelativeToolTip": "DBContextLifeTime\\Entities\\Wallet.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T13:32:03.234Z"
+              "WhenOpened": "2025-05-22T13:32:03.234Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "D:\\WORK\\Backend\\.Net\\Materials Codes\\EntityFrameworkCore\\_02_DBContext\\_04_DBContextLifeTime\\DBContextLifeTime\\DBContextLifeTime\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "DBContextLifeTime\\Data\\AppDbContext.cs",
               "ToolTip": "D:\\WORK\\Backend\\.Net\\Materials Codes\\EntityFrameworkCore\\_02_DBContext\\_04_DBContextLifeTime\\DBContextLifeTime\\DBContextLifeTime\\Data\\AppDbContext.cs",
               "RelativeToolTip": "DBContextLifeTime\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T13:31:58.547Z"
+              "WhenOpened": "2025-05-22T13:31:58.547Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -106,13 +108,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\WORK\\Backend\\.Net\\Materials Codes\\EntityFrameworkCore\\_02_DBContext\\_04_DBContextLifeTime\\DBContextLifeTime\\DBContextLifeTime\\Program.cs",
               "RelativeDocumentMoniker": "DBContextLifeTime\\Program.cs",
               "ToolTip": "D:\\WORK\\Backend\\.Net\\Materials Codes\\EntityFrameworkCore\\_02_DBContext\\_04_DBContextLifeTime\\DBContextLifeTime\\DBContextLifeTime\\Program.cs",
               "RelativeToolTip": "DBContextLifeTime\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAALAAAAAAAAAA==",
+              "ViewState": "AgIAACIAAAAAAAAAAAAowCsAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-22T13:31:14.397Z",
               "EditorCaption": ""

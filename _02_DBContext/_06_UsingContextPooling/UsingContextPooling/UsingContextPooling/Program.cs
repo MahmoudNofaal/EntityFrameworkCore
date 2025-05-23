@@ -5,6 +5,16 @@ using UsingContextPooling.Data;
 
 namespace UsingContextPooling;
 
+/*
+ Context Pooling
+-> reuses DbContext instances to save time in high-traffic apps
+-> use [AddDbContextPool<TContext>] instead of [AddDbContext]. EF Core manages the pool automatically.
+
+* Reduces the time spent creating new [DbContext] instances, speeding up apps like
+  a busy e-commerce API.
+ 
+ */
+
 internal class Program
 {
    static void Main(string[] args)

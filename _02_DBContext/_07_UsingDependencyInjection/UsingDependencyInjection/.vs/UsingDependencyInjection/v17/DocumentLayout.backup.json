@@ -1,7 +1,12 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\EntityFrameworkCore\\_02_DBContext\\_07_UsingDependencyInjection\\UsingDependencyInjection\\",
-  "Documents": [],
+  "WorkspaceRootPath": "D:\\WORK\\Backend\\.Net\\Materials Codes\\EntityFrameworkCore\\_02_DBContext\\_07_UsingDependencyInjection\\UsingDependencyInjection\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6BB972F3-1FC1-4539-A7DF-5D36F0FEDA33}|UsingDependencyInjection\\UsingDependencyInjection.csproj|d:\\work\\backend\\.net\\materials codes\\entityframeworkcore\\_02_dbcontext\\_07_usingdependencyinjection\\usingdependencyinjection\\usingdependencyinjection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BB972F3-1FC1-4539-A7DF-5D36F0FEDA33}|UsingDependencyInjection\\UsingDependencyInjection.csproj|solutionrelative:usingdependencyinjection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 1,
@@ -9,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,6 +55,19 @@
             {
               "$type": "Bookmark",
               "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\WORK\\Backend\\.Net\\Materials Codes\\EntityFrameworkCore\\_02_DBContext\\_07_UsingDependencyInjection\\UsingDependencyInjection\\UsingDependencyInjection\\Program.cs",
+              "RelativeDocumentMoniker": "UsingDependencyInjection\\Program.cs",
+              "ToolTip": "D:\\WORK\\Backend\\.Net\\Materials Codes\\EntityFrameworkCore\\_02_DBContext\\_07_UsingDependencyInjection\\UsingDependencyInjection\\UsingDependencyInjection\\Program.cs",
+              "RelativeToolTip": "UsingDependencyInjection\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T23:31:09.958Z",
+              "EditorCaption": ""
             }
           ]
         },

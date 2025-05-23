@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\WORK\\Backend\\.Net\\Materials Codes\\EntityFrameworkCore\\_02_DBContext\\_02_ExternalConfiguration\\ExternalConfiguration\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CA6090C4-ABFD-4E1E-9732-A8CC196E1A54}|ExternalConfiguration\\ExternalConfiguration.csproj|d:\\work\\backend\\.net\\materials codes\\entityframeworkcore\\_02_dbcontext\\_02_externalconfiguration\\externalconfiguration\\externalconfiguration\\entities\\wallet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA6090C4-ABFD-4E1E-9732-A8CC196E1A54}|ExternalConfiguration\\ExternalConfiguration.csproj|solutionrelative:externalconfiguration\\entities\\wallet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CA6090C4-ABFD-4E1E-9732-A8CC196E1A54}|ExternalConfiguration\\ExternalConfiguration.csproj|d:\\work\\backend\\.net\\materials codes\\entityframeworkcore\\_02_dbcontext\\_02_externalconfiguration\\externalconfiguration\\externalconfiguration\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CA6090C4-ABFD-4E1E-9732-A8CC196E1A54}|ExternalConfiguration\\ExternalConfiguration.csproj|solutionrelative:externalconfiguration\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,10 +17,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{CA6090C4-ABFD-4E1E-9732-A8CC196E1A54}|ExternalConfiguration\\ExternalConfiguration.csproj|d:\\work\\backend\\.net\\materials codes\\entityframeworkcore\\_02_dbcontext\\_02_externalconfiguration\\externalconfiguration\\externalconfiguration\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{CA6090C4-ABFD-4E1E-9732-A8CC196E1A54}|ExternalConfiguration\\ExternalConfiguration.csproj|solutionrelative:externalconfiguration\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA6090C4-ABFD-4E1E-9732-A8CC196E1A54}|ExternalConfiguration\\ExternalConfiguration.csproj|d:\\work\\backend\\.net\\materials codes\\entityframeworkcore\\_02_dbcontext\\_02_externalconfiguration\\externalconfiguration\\externalconfiguration\\entities\\wallet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA6090C4-ABFD-4E1E-9732-A8CC196E1A54}|ExternalConfiguration\\ExternalConfiguration.csproj|solutionrelative:externalconfiguration\\entities\\wallet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CA6090C4-ABFD-4E1E-9732-A8CC196E1A54}|ExternalConfiguration\\ExternalConfiguration.csproj|d:\\work\\backend\\.net\\materials codes\\entityframeworkcore\\_02_dbcontext\\_02_externalconfiguration\\externalconfiguration\\externalconfiguration\\externalconfiguration.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Bookmark",
@@ -74,7 +74,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\WORK\\Backend\\.Net\\Materials Codes\\EntityFrameworkCore\\_02_DBContext\\_02_ExternalConfiguration\\ExternalConfiguration\\ExternalConfiguration\\appsettings.json",
               "RelativeDocumentMoniker": "ExternalConfiguration\\appsettings.json",
@@ -86,25 +86,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Wallet.cs",
               "DocumentMoniker": "D:\\WORK\\Backend\\.Net\\Materials Codes\\EntityFrameworkCore\\_02_DBContext\\_02_ExternalConfiguration\\ExternalConfiguration\\ExternalConfiguration\\Entities\\Wallet.cs",
               "RelativeDocumentMoniker": "ExternalConfiguration\\Entities\\Wallet.cs",
               "ToolTip": "D:\\WORK\\Backend\\.Net\\Materials Codes\\EntityFrameworkCore\\_02_DBContext\\_02_ExternalConfiguration\\ExternalConfiguration\\ExternalConfiguration\\Entities\\Wallet.cs",
               "RelativeToolTip": "ExternalConfiguration\\Entities\\Wallet.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T13:27:50.5Z"
+              "WhenOpened": "2025-05-22T13:27:50.5Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "D:\\WORK\\Backend\\.Net\\Materials Codes\\EntityFrameworkCore\\_02_DBContext\\_02_ExternalConfiguration\\ExternalConfiguration\\ExternalConfiguration\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "ExternalConfiguration\\Data\\AppDbContext.cs",
               "ToolTip": "D:\\WORK\\Backend\\.Net\\Materials Codes\\EntityFrameworkCore\\_02_DBContext\\_02_ExternalConfiguration\\ExternalConfiguration\\ExternalConfiguration\\Data\\AppDbContext.cs",
               "RelativeToolTip": "ExternalConfiguration\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-22T13:27:45.276Z",
               "EditorCaption": ""
@@ -123,13 +124,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\WORK\\Backend\\.Net\\Materials Codes\\EntityFrameworkCore\\_02_DBContext\\_02_ExternalConfiguration\\ExternalConfiguration\\ExternalConfiguration\\Program.cs",
               "RelativeDocumentMoniker": "ExternalConfiguration\\Program.cs",
               "ToolTip": "D:\\WORK\\Backend\\.Net\\Materials Codes\\EntityFrameworkCore\\_02_DBContext\\_02_ExternalConfiguration\\ExternalConfiguration\\ExternalConfiguration\\Program.cs",
               "RelativeToolTip": "ExternalConfiguration\\Program.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAA7wBEAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-22T13:26:50.004Z",
               "EditorCaption": ""

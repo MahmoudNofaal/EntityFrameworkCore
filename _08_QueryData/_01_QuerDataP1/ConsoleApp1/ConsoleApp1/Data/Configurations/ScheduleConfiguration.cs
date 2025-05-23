@@ -15,10 +15,10 @@ public class ScheduleConfiguration : IEntityTypeConfiguration<Schedule>
       // builder.Property(x => x.CourseName).HasMaxLength(255); // nvarchar(255)
 
       builder.Property(x => x.ScheduleType)
-          .HasConversion(
-               x => x.ToString(),
-               x => (ScheduleType) Enum.Parse(typeof(ScheduleType), x)
-          );
+              .HasConversion(
+                   x => x.ToString(),
+                   x => (ScheduleType) Enum.Parse(typeof(ScheduleType), x)
+              );
 
       builder.ToTable("Schedules");
    }

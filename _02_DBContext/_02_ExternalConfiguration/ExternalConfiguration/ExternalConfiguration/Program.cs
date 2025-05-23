@@ -15,7 +15,7 @@ internal class Program
    static void Main(string[] args)
    {
 
-      // confugure DbContext on program.cs
+      // confugure DbContext on Program.cs
       var configuration = new ConfigurationBuilder()
                              .AddJsonFile("appsettings.json")
                              .Build();
@@ -26,6 +26,7 @@ internal class Program
 
       var options = optionBuilder.Options;
 
+      // test connection: by retrieving some data
       using (var _context = new AppDbContext(options))
       {
          foreach (var wallet in _context.Wallets)
@@ -35,7 +36,7 @@ internal class Program
 
       }
 
-
    }
 
 }
+

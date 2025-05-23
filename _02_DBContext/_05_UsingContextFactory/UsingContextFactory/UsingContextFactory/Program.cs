@@ -6,9 +6,10 @@ using UsingContextFactory.Data;
 namespace UsingContextFactory;
 
 /*
+- It is another way of createing insance of DbContext, when we cannot use DI (Dependency Injection)
+  like in console apps or background tasks.
  
- 
- */
+*/
 
 internal class Program
 {

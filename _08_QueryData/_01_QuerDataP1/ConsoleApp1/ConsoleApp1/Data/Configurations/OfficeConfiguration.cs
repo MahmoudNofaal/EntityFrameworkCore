@@ -12,12 +12,12 @@ public class OfficeConfiguration : IEntityTypeConfiguration<Office>
       builder.Property(x => x.Id).ValueGeneratedNever();
 
       builder.Property(x => x.OfficeName)
-          .HasColumnType("VARCHAR")
-          .HasMaxLength(50).IsRequired();
+             .HasColumnType("VARCHAR")
+             .HasMaxLength(50).IsRequired();
 
       builder.Property(x => x.OfficeLocation)
-       .HasColumnType("VARCHAR")
-       .HasMaxLength(50).IsRequired();
+             .HasColumnType("VARCHAR")
+             .HasMaxLength(50).IsRequired();
 
 
       builder.ToTable("Offices");

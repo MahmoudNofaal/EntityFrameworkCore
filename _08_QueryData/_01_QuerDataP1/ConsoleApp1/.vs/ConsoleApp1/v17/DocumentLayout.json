@@ -3,12 +3,32 @@
   "WorkspaceRootPath": "D:\\WORK\\Backend\\.Net\\Materials Codes\\EntityFrameworkCore\\_08_QueryData\\_01_QuerDataP1\\ConsoleApp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A5874F6D-6D79-4C5B-8040-4CD2F19B05BC}|ConsoleApp1\\ConsoleApp1.csproj|d:\\work\\backend\\.net\\materials codes\\entityframeworkcore\\_08_querydata\\_01_querdatap1\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5874F6D-6D79-4C5B-8040-4CD2F19B05BC}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A5874F6D-6D79-4C5B-8040-4CD2F19B05BC}|ConsoleApp1\\ConsoleApp1.csproj|d:\\work\\backend\\.net\\materials codes\\entityframeworkcore\\_08_querydata\\_01_querdatap1\\consoleapp1\\consoleapp1\\data\\configurations\\scheduleconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5874F6D-6D79-4C5B-8040-4CD2F19B05BC}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\data\\configurations\\scheduleconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A5874F6D-6D79-4C5B-8040-4CD2F19B05BC}|ConsoleApp1\\ConsoleApp1.csproj|d:\\work\\backend\\.net\\materials codes\\entityframeworkcore\\_08_querydata\\_01_querdatap1\\consoleapp1\\consoleapp1\\consoleapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{A5874F6D-6D79-4C5B-8040-4CD2F19B05BC}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\consoleapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{A5874F6D-6D79-4C5B-8040-4CD2F19B05BC}|ConsoleApp1\\ConsoleApp1.csproj|d:\\work\\backend\\.net\\materials codes\\entityframeworkcore\\_08_querydata\\_01_querdatap1\\consoleapp1\\consoleapp1\\data\\configurations\\officeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5874F6D-6D79-4C5B-8040-4CD2F19B05BC}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\data\\configurations\\officeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5874F6D-6D79-4C5B-8040-4CD2F19B05BC}|ConsoleApp1\\ConsoleApp1.csproj|d:\\work\\backend\\.net\\materials codes\\entityframeworkcore\\_08_querydata\\_01_querdatap1\\consoleapp1\\consoleapp1\\data\\configurations\\instructorconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5874F6D-6D79-4C5B-8040-4CD2F19B05BC}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\data\\configurations\\instructorconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5874F6D-6D79-4C5B-8040-4CD2F19B05BC}|ConsoleApp1\\ConsoleApp1.csproj|d:\\work\\backend\\.net\\materials codes\\entityframeworkcore\\_08_querydata\\_01_querdatap1\\consoleapp1\\consoleapp1\\data\\configurations\\enrollmentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5874F6D-6D79-4C5B-8040-4CD2F19B05BC}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\data\\configurations\\enrollmentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5874F6D-6D79-4C5B-8040-4CD2F19B05BC}|ConsoleApp1\\ConsoleApp1.csproj|d:\\work\\backend\\.net\\materials codes\\entityframeworkcore\\_08_querydata\\_01_querdatap1\\consoleapp1\\consoleapp1\\data\\configurations\\coporateconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5874F6D-6D79-4C5B-8040-4CD2F19B05BC}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\data\\configurations\\coporateconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5874F6D-6D79-4C5B-8040-4CD2F19B05BC}|ConsoleApp1\\ConsoleApp1.csproj|d:\\work\\backend\\.net\\materials codes\\entityframeworkcore\\_08_querydata\\_01_querdatap1\\consoleapp1\\consoleapp1\\data\\configurations\\converters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5874F6D-6D79-4C5B-8040-4CD2F19B05BC}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\data\\configurations\\converters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5874F6D-6D79-4C5B-8040-4CD2F19B05BC}|ConsoleApp1\\ConsoleApp1.csproj|d:\\work\\backend\\.net\\materials codes\\entityframeworkcore\\_08_querydata\\_01_querdatap1\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5874F6D-6D79-4C5B-8040-4CD2F19B05BC}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,8 +38,47 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ScheduleConfiguration.cs",
+              "DocumentMoniker": "D:\\WORK\\Backend\\.Net\\Materials Codes\\EntityFrameworkCore\\_08_QueryData\\_01_QuerDataP1\\ConsoleApp1\\ConsoleApp1\\Data\\Configurations\\ScheduleConfiguration.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Data\\Configurations\\ScheduleConfiguration.cs",
+              "ToolTip": "D:\\WORK\\Backend\\.Net\\Materials Codes\\EntityFrameworkCore\\_08_QueryData\\_01_QuerDataP1\\ConsoleApp1\\ConsoleApp1\\Data\\Configurations\\ScheduleConfiguration.cs",
+              "RelativeToolTip": "ConsoleApp1\\Data\\Configurations\\ScheduleConfiguration.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAYwBQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T15:01:27.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OfficeConfiguration.cs",
+              "DocumentMoniker": "D:\\WORK\\Backend\\.Net\\Materials Codes\\EntityFrameworkCore\\_08_QueryData\\_01_QuerDataP1\\ConsoleApp1\\ConsoleApp1\\Data\\Configurations\\OfficeConfiguration.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Data\\Configurations\\OfficeConfiguration.cs",
+              "ToolTip": "D:\\WORK\\Backend\\.Net\\Materials Codes\\EntityFrameworkCore\\_08_QueryData\\_01_QuerDataP1\\ConsoleApp1\\ConsoleApp1\\Data\\Configurations\\OfficeConfiguration.cs",
+              "RelativeToolTip": "ConsoleApp1\\Data\\Configurations\\OfficeConfiguration.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAYwBMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T15:01:18.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InstructorConfiguration.cs",
+              "DocumentMoniker": "D:\\WORK\\Backend\\.Net\\Materials Codes\\EntityFrameworkCore\\_08_QueryData\\_01_QuerDataP1\\ConsoleApp1\\ConsoleApp1\\Data\\Configurations\\InstructorConfiguration.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Data\\Configurations\\InstructorConfiguration.cs",
+              "ToolTip": "D:\\WORK\\Backend\\.Net\\Materials Codes\\EntityFrameworkCore\\_08_QueryData\\_01_QuerDataP1\\ConsoleApp1\\ConsoleApp1\\Data\\Configurations\\InstructorConfiguration.cs",
+              "RelativeToolTip": "ConsoleApp1\\Data\\Configurations\\InstructorConfiguration.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAowBkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T15:00:58.117Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
@@ -62,25 +121,52 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ConsoleApp1.csproj",
-              "DocumentMoniker": "D:\\WORK\\Backend\\.Net\\Materials Codes\\EntityFrameworkCore\\_08_QueryData\\_01_QuerDataP1\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
-              "RelativeDocumentMoniker": "ConsoleApp1\\ConsoleApp1.csproj",
-              "ToolTip": "D:\\WORK\\Backend\\.Net\\Materials Codes\\EntityFrameworkCore\\_08_QueryData\\_01_QuerDataP1\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
-              "RelativeToolTip": "ConsoleApp1\\ConsoleApp1.csproj",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAiwB8AAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-22T14:49:28.103Z"
+              "DocumentIndex": 3,
+              "Title": "EnrollmentConfiguration.cs",
+              "DocumentMoniker": "D:\\WORK\\Backend\\.Net\\Materials Codes\\EntityFrameworkCore\\_08_QueryData\\_01_QuerDataP1\\ConsoleApp1\\ConsoleApp1\\Data\\Configurations\\EnrollmentConfiguration.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Data\\Configurations\\EnrollmentConfiguration.cs",
+              "ToolTip": "D:\\WORK\\Backend\\.Net\\Materials Codes\\EntityFrameworkCore\\_08_QueryData\\_01_QuerDataP1\\ConsoleApp1\\ConsoleApp1\\Data\\Configurations\\EnrollmentConfiguration.cs",
+              "RelativeToolTip": "ConsoleApp1\\Data\\Configurations\\EnrollmentConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T15:00:52.674Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
+              "Title": "CoporateConfiguration.cs",
+              "DocumentMoniker": "D:\\WORK\\Backend\\.Net\\Materials Codes\\EntityFrameworkCore\\_08_QueryData\\_01_QuerDataP1\\ConsoleApp1\\ConsoleApp1\\Data\\Configurations\\CoporateConfiguration.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Data\\Configurations\\CoporateConfiguration.cs",
+              "ToolTip": "D:\\WORK\\Backend\\.Net\\Materials Codes\\EntityFrameworkCore\\_08_QueryData\\_01_QuerDataP1\\ConsoleApp1\\ConsoleApp1\\Data\\Configurations\\CoporateConfiguration.cs",
+              "RelativeToolTip": "ConsoleApp1\\Data\\Configurations\\CoporateConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T15:00:43.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Converters.cs",
+              "DocumentMoniker": "D:\\WORK\\Backend\\.Net\\Materials Codes\\EntityFrameworkCore\\_08_QueryData\\_01_QuerDataP1\\ConsoleApp1\\ConsoleApp1\\Data\\Configurations\\Converters.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Data\\Configurations\\Converters.cs",
+              "ToolTip": "D:\\WORK\\Backend\\.Net\\Materials Codes\\EntityFrameworkCore\\_08_QueryData\\_01_QuerDataP1\\ConsoleApp1\\ConsoleApp1\\Data\\Configurations\\Converters.cs",
+              "RelativeToolTip": "ConsoleApp1\\Data\\Configurations\\Converters.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T15:00:13.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\WORK\\Backend\\.Net\\Materials Codes\\EntityFrameworkCore\\_08_QueryData\\_01_QuerDataP1\\ConsoleApp1\\ConsoleApp1\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
               "ToolTip": "D:\\WORK\\Backend\\.Net\\Materials Codes\\EntityFrameworkCore\\_08_QueryData\\_01_QuerDataP1\\ConsoleApp1\\ConsoleApp1\\Program.cs",
               "RelativeToolTip": "ConsoleApp1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAowFQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-22T14:49:24.507Z",
               "EditorCaption": ""

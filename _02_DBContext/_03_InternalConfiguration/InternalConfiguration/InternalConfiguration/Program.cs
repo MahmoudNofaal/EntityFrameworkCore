@@ -10,9 +10,9 @@ namespace InternalConfiguration;
 
 /*
  In internal configuration
--> we use OnModelingCreating method of DataAnnotations to tell EF Core how our models relate
+-> we use [OnModelingCreating] method or [DataAnnotations] to tell EFCore how our models relate
    to the database
--> we use the FluentAPI in OnModelCreating for complex (relations) or DataAnnotaions for simple
+-> We use the [FluentAPI] in [OnModelCreating] for complex (relations) or [DataAnnotaions] for simple
    rules directly in model classes.
 
  */

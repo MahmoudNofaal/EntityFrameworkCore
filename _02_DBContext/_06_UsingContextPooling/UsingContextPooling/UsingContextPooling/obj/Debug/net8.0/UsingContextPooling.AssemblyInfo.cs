@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UsingContextPooling")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+285acf801334c02bc9c92fdbb0167a7bf7a0f076")]
 [assembly: System.Reflection.AssemblyProductAttribute("UsingContextPooling")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UsingContextPooling")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

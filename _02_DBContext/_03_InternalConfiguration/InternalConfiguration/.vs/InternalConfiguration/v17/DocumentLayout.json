@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\WORK\\Backend\\.Net\\Materials Codes\\EntityFrameworkCore\\_02_DBContext\\_03_InternalConfiguration\\InternalConfiguration\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{684F8D87-1B05-4C33-8E82-1F2FFEA85957}|InternalConfiguration\\InternalConfiguration.csproj|d:\\work\\backend\\.net\\materials codes\\entityframeworkcore\\_02_dbcontext\\_03_internalconfiguration\\internalconfiguration\\internalconfiguration\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{684F8D87-1B05-4C33-8E82-1F2FFEA85957}|InternalConfiguration\\InternalConfiguration.csproj|solutionrelative:internalconfiguration\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{684F8D87-1B05-4C33-8E82-1F2FFEA85957}|InternalConfiguration\\InternalConfiguration.csproj|d:\\work\\backend\\.net\\materials codes\\entityframeworkcore\\_02_dbcontext\\_03_internalconfiguration\\internalconfiguration\\internalconfiguration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{684F8D87-1B05-4C33-8E82-1F2FFEA85957}|InternalConfiguration\\InternalConfiguration.csproj|solutionrelative:internalconfiguration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{684F8D87-1B05-4C33-8E82-1F2FFEA85957}|InternalConfiguration\\InternalConfiguration.csproj|d:\\work\\backend\\.net\\materials codes\\entityframeworkcore\\_02_dbcontext\\_03_internalconfiguration\\internalconfiguration\\internalconfiguration\\entities\\wallet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{684F8D87-1B05-4C33-8E82-1F2FFEA85957}|InternalConfiguration\\InternalConfiguration.csproj|solutionrelative:internalconfiguration\\entities\\wallet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{684F8D87-1B05-4C33-8E82-1F2FFEA85957}|InternalConfiguration\\InternalConfiguration.csproj|d:\\work\\backend\\.net\\materials codes\\entityframeworkcore\\_02_dbcontext\\_03_internalconfiguration\\internalconfiguration\\internalconfiguration\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{684F8D87-1B05-4C33-8E82-1F2FFEA85957}|InternalConfiguration\\InternalConfiguration.csproj|solutionrelative:internalconfiguration\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{684F8D87-1B05-4C33-8E82-1F2FFEA85957}|InternalConfiguration\\InternalConfiguration.csproj|d:\\work\\backend\\.net\\materials codes\\entityframeworkcore\\_02_dbcontext\\_03_internalconfiguration\\internalconfiguration\\internalconfiguration\\internalconfiguration.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 13,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Bookmark",
@@ -70,7 +70,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Wallet.cs",
               "DocumentMoniker": "D:\\WORK\\Backend\\.Net\\Materials Codes\\EntityFrameworkCore\\_02_DBContext\\_03_InternalConfiguration\\InternalConfiguration\\InternalConfiguration\\Entities\\Wallet.cs",
               "RelativeDocumentMoniker": "InternalConfiguration\\Entities\\Wallet.cs",
@@ -82,15 +82,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "D:\\WORK\\Backend\\.Net\\Materials Codes\\EntityFrameworkCore\\_02_DBContext\\_03_InternalConfiguration\\InternalConfiguration\\InternalConfiguration\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "InternalConfiguration\\Data\\AppDbContext.cs",
               "ToolTip": "D:\\WORK\\Backend\\.Net\\Materials Codes\\EntityFrameworkCore\\_02_DBContext\\_03_InternalConfiguration\\InternalConfiguration\\InternalConfiguration\\Data\\AppDbContext.cs",
               "RelativeToolTip": "InternalConfiguration\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAAAowAAAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T13:29:30.254Z"
+              "WhenOpened": "2025-05-22T13:29:30.254Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -106,13 +107,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\WORK\\Backend\\.Net\\Materials Codes\\EntityFrameworkCore\\_02_DBContext\\_03_InternalConfiguration\\InternalConfiguration\\InternalConfiguration\\Program.cs",
               "RelativeDocumentMoniker": "InternalConfiguration\\Program.cs",
               "ToolTip": "D:\\WORK\\Backend\\.Net\\Materials Codes\\EntityFrameworkCore\\_02_DBContext\\_03_InternalConfiguration\\InternalConfiguration\\InternalConfiguration\\Program.cs",
               "RelativeToolTip": "InternalConfiguration\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAADAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABYAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-22T13:28:56.243Z",
               "EditorCaption": ""

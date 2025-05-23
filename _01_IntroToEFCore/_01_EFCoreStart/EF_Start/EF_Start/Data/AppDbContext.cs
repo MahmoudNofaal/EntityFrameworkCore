@@ -24,7 +24,7 @@ public class AppDbContext : DbContext
    }
 
 
-   /// DbSet a collection that represents all entities
+   /// DbSet is a collection that represents all entities
    public DbSet<Wallet> Wallets { get; set; } = null!;
 
    protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)

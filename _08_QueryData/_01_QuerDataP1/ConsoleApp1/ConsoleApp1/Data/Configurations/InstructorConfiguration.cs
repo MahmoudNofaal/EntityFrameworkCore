@@ -12,18 +12,18 @@ public class InstructorConfiguration : IEntityTypeConfiguration<Instructor>
       builder.Property(x => x.Id).ValueGeneratedNever();
 
       builder.Property(x => x.FName)
-          .HasColumnType("VARCHAR")
-          .HasMaxLength(50).IsRequired();
+             .HasColumnType("VARCHAR")
+             .HasMaxLength(50).IsRequired();
 
       builder.Property(x => x.LName)
-      .HasColumnType("VARCHAR")
-      .HasMaxLength(50).IsRequired();
+             .HasColumnType("VARCHAR")
+             .HasMaxLength(50).IsRequired();
 
 
       builder.HasOne(x => x.Office)
-              .WithOne(x => x.Instructor)
-              .HasForeignKey<Instructor>(x => x.OfficeId)
-              .IsRequired(false);
+             .WithOne(x => x.Instructor)
+             .HasForeignKey<Instructor>(x => x.OfficeId)
+             .IsRequired(false);
 
 
       builder.ToTable("Instructors");

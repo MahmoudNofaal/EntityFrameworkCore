@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "D:\\EntityFrameworkCore\\_02_DBContext\\_06_UsingContextPooling\\UsingContextPooling\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{EDA46951-BD06-465D-9BB0-DA0384F188EB}|UsingContextPooling\\UsingContextPooling.csproj|d:\\entityframeworkcore\\_02_dbcontext\\_06_usingcontextpooling\\usingcontextpooling\\usingcontextpooling\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EDA46951-BD06-465D-9BB0-DA0384F188EB}|UsingContextPooling\\UsingContextPooling.csproj|solutionrelative:usingcontextpooling\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EDA46951-BD06-465D-9BB0-DA0384F188EB}|UsingContextPooling\\UsingContextPooling.csproj|d:\\entityframeworkcore\\_02_dbcontext\\_06_usingcontextpooling\\usingcontextpooling\\usingcontextpooling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EDA46951-BD06-465D-9BB0-DA0384F188EB}|UsingContextPooling\\UsingContextPooling.csproj|solutionrelative:usingcontextpooling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDA46951-BD06-465D-9BB0-DA0384F188EB}|UsingContextPooling\\UsingContextPooling.csproj|d:\\entityframeworkcore\\_02_dbcontext\\_06_usingcontextpooling\\usingcontextpooling\\usingcontextpooling\\entities\\wallet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDA46951-BD06-465D-9BB0-DA0384F188EB}|UsingContextPooling\\UsingContextPooling.csproj|solutionrelative:usingcontextpooling\\entities\\wallet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDA46951-BD06-465D-9BB0-DA0384F188EB}|UsingContextPooling\\UsingContextPooling.csproj|d:\\entityframeworkcore\\_02_dbcontext\\_06_usingcontextpooling\\usingcontextpooling\\usingcontextpooling\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDA46951-BD06-465D-9BB0-DA0384F188EB}|UsingContextPooling\\UsingContextPooling.csproj|solutionrelative:usingcontextpooling\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDA46951-BD06-465D-9BB0-DA0384F188EB}|UsingContextPooling\\UsingContextPooling.csproj|d:\\entityframeworkcore\\_02_dbcontext\\_06_usingcontextpooling\\usingcontextpooling\\usingcontextpooling\\usingcontextpooling.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EDA46951-BD06-465D-9BB0-DA0384F188EB}|UsingContextPooling\\UsingContextPooling.csproj|solutionrelative:usingcontextpooling\\usingcontextpooling.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -59,12 +75,64 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\EntityFrameworkCore\\_02_DBContext\\_06_UsingContextPooling\\UsingContextPooling\\UsingContextPooling\\appsettings.json",
+              "RelativeDocumentMoniker": "UsingContextPooling\\appsettings.json",
+              "ToolTip": "D:\\EntityFrameworkCore\\_02_DBContext\\_06_UsingContextPooling\\UsingContextPooling\\UsingContextPooling\\appsettings.json",
+              "RelativeToolTip": "UsingContextPooling\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-22T13:39:36.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Wallet.cs",
+              "DocumentMoniker": "D:\\EntityFrameworkCore\\_02_DBContext\\_06_UsingContextPooling\\UsingContextPooling\\UsingContextPooling\\Entities\\Wallet.cs",
+              "RelativeDocumentMoniker": "UsingContextPooling\\Entities\\Wallet.cs",
+              "ToolTip": "D:\\EntityFrameworkCore\\_02_DBContext\\_06_UsingContextPooling\\UsingContextPooling\\UsingContextPooling\\Entities\\Wallet.cs",
+              "RelativeToolTip": "UsingContextPooling\\Entities\\Wallet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T13:39:28.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\EntityFrameworkCore\\_02_DBContext\\_06_UsingContextPooling\\UsingContextPooling\\UsingContextPooling\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "UsingContextPooling\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\EntityFrameworkCore\\_02_DBContext\\_06_UsingContextPooling\\UsingContextPooling\\UsingContextPooling\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "UsingContextPooling\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T13:39:22.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsingContextPooling",
+              "DocumentMoniker": "D:\\EntityFrameworkCore\\_02_DBContext\\_06_UsingContextPooling\\UsingContextPooling\\UsingContextPooling\\UsingContextPooling.csproj",
+              "RelativeDocumentMoniker": "UsingContextPooling\\UsingContextPooling.csproj",
+              "ToolTip": "D:\\EntityFrameworkCore\\_02_DBContext\\_06_UsingContextPooling\\UsingContextPooling\\UsingContextPooling\\UsingContextPooling.csproj",
+              "RelativeToolTip": "UsingContextPooling\\UsingContextPooling.csproj",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAiwB8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-22T13:38:34.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\EntityFrameworkCore\\_02_DBContext\\_06_UsingContextPooling\\UsingContextPooling\\UsingContextPooling\\Program.cs",
               "RelativeDocumentMoniker": "UsingContextPooling\\Program.cs",
               "ToolTip": "D:\\EntityFrameworkCore\\_02_DBContext\\_06_UsingContextPooling\\UsingContextPooling\\UsingContextPooling\\Program.cs",
               "RelativeToolTip": "UsingContextPooling\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-22T13:38:31.655Z",
               "EditorCaption": ""

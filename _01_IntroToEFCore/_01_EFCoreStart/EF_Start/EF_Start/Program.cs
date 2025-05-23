@@ -92,7 +92,7 @@ internal class Program
 
       using (var _context = new AppDbContext())
       {
-         // here the addition operation is happend on the memory
+         // here the addition operation is happen on the memory
          _context.Wallets.Add(wallet03);
 
          // we use SaveChanges to save it in the database
@@ -181,3 +181,4 @@ internal class Program
    }
 
 }
+
