@@ -5,6 +5,38 @@
     {
       "AbsoluteMoniker": "D:0:0:{7C5E2FC1-0DDE-4B89-A23D-4953050113E2}|ConsoleApp1\\ConsoleApp1.csproj|d:\\entityframeworkcore\\_03_configuration\\_04_overrideconfigurationbyusinggrouping\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7C5E2FC1-0DDE-4B89-A23D-4953050113E2}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C5E2FC1-0DDE-4B89-A23D-4953050113E2}|ConsoleApp1\\ConsoleApp1.csproj|d:\\entityframeworkcore\\_03_configuration\\_04_overrideconfigurationbyusinggrouping\\consoleapp1\\consoleapp1\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C5E2FC1-0DDE-4B89-A23D-4953050113E2}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C5E2FC1-0DDE-4B89-A23D-4953050113E2}|ConsoleApp1\\ConsoleApp1.csproj|d:\\entityframeworkcore\\_03_configuration\\_04_overrideconfigurationbyusinggrouping\\consoleapp1\\consoleapp1\\entities\\tweet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C5E2FC1-0DDE-4B89-A23D-4953050113E2}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\entities\\tweet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C5E2FC1-0DDE-4B89-A23D-4953050113E2}|ConsoleApp1\\ConsoleApp1.csproj|d:\\entityframeworkcore\\_03_configuration\\_04_overrideconfigurationbyusinggrouping\\consoleapp1\\consoleapp1\\entities\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C5E2FC1-0DDE-4B89-A23D-4953050113E2}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\entities\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C5E2FC1-0DDE-4B89-A23D-4953050113E2}|ConsoleApp1\\ConsoleApp1.csproj|d:\\entityframeworkcore\\_03_configuration\\_04_overrideconfigurationbyusinggrouping\\consoleapp1\\consoleapp1\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C5E2FC1-0DDE-4B89-A23D-4953050113E2}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C5E2FC1-0DDE-4B89-A23D-4953050113E2}|ConsoleApp1\\ConsoleApp1.csproj|d:\\entityframeworkcore\\_03_configuration\\_04_overrideconfigurationbyusinggrouping\\consoleapp1\\consoleapp1\\data\\configurations\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C5E2FC1-0DDE-4B89-A23D-4953050113E2}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\data\\configurations\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C5E2FC1-0DDE-4B89-A23D-4953050113E2}|ConsoleApp1\\ConsoleApp1.csproj|d:\\entityframeworkcore\\_03_configuration\\_04_overrideconfigurationbyusinggrouping\\consoleapp1\\consoleapp1\\data\\configurations\\tweetconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C5E2FC1-0DDE-4B89-A23D-4953050113E2}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\data\\configurations\\tweetconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C5E2FC1-0DDE-4B89-A23D-4953050113E2}|ConsoleApp1\\ConsoleApp1.csproj|d:\\entityframeworkcore\\_03_configuration\\_04_overrideconfigurationbyusinggrouping\\consoleapp1\\consoleapp1\\data\\configurations\\commentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C5E2FC1-0DDE-4B89-A23D-4953050113E2}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\data\\configurations\\commentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C5E2FC1-0DDE-4B89-A23D-4953050113E2}|ConsoleApp1\\ConsoleApp1.csproj|d:\\entityframeworkcore\\_03_configuration\\_04_overrideconfigurationbyusinggrouping\\consoleapp1\\consoleapp1\\consoleapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7C5E2FC1-0DDE-4B89-A23D-4953050113E2}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\consoleapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 17,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,15 +90,119 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\EntityFrameworkCore\\_03_Configuration\\_04_OverrideConfigurationByUsingGrouping\\ConsoleApp1\\ConsoleApp1\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Entities\\User.cs",
+              "ToolTip": "D:\\EntityFrameworkCore\\_03_Configuration\\_04_OverrideConfigurationByUsingGrouping\\ConsoleApp1\\ConsoleApp1\\Entities\\User.cs",
+              "RelativeToolTip": "ConsoleApp1\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T14:27:50.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Tweet.cs",
+              "DocumentMoniker": "D:\\EntityFrameworkCore\\_03_Configuration\\_04_OverrideConfigurationByUsingGrouping\\ConsoleApp1\\ConsoleApp1\\Entities\\Tweet.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Entities\\Tweet.cs",
+              "ToolTip": "D:\\EntityFrameworkCore\\_03_Configuration\\_04_OverrideConfigurationByUsingGrouping\\ConsoleApp1\\ConsoleApp1\\Entities\\Tweet.cs",
+              "RelativeToolTip": "ConsoleApp1\\Entities\\Tweet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T14:27:49.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "D:\\EntityFrameworkCore\\_03_Configuration\\_04_OverrideConfigurationByUsingGrouping\\ConsoleApp1\\ConsoleApp1\\Entities\\Comment.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Entities\\Comment.cs",
+              "ToolTip": "D:\\EntityFrameworkCore\\_03_Configuration\\_04_OverrideConfigurationByUsingGrouping\\ConsoleApp1\\ConsoleApp1\\Entities\\Comment.cs",
+              "RelativeToolTip": "ConsoleApp1\\Entities\\Comment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T14:27:47.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\EntityFrameworkCore\\_03_Configuration\\_04_OverrideConfigurationByUsingGrouping\\ConsoleApp1\\ConsoleApp1\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\EntityFrameworkCore\\_03_Configuration\\_04_OverrideConfigurationByUsingGrouping\\ConsoleApp1\\ConsoleApp1\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "ConsoleApp1\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T14:27:44.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserConfiguration.cs",
+              "DocumentMoniker": "D:\\EntityFrameworkCore\\_03_Configuration\\_04_OverrideConfigurationByUsingGrouping\\ConsoleApp1\\ConsoleApp1\\Data\\Configurations\\UserConfiguration.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Data\\Configurations\\UserConfiguration.cs",
+              "ToolTip": "D:\\EntityFrameworkCore\\_03_Configuration\\_04_OverrideConfigurationByUsingGrouping\\ConsoleApp1\\ConsoleApp1\\Data\\Configurations\\UserConfiguration.cs",
+              "RelativeToolTip": "ConsoleApp1\\Data\\Configurations\\UserConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T14:27:42.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TweetConfiguration.cs",
+              "DocumentMoniker": "D:\\EntityFrameworkCore\\_03_Configuration\\_04_OverrideConfigurationByUsingGrouping\\ConsoleApp1\\ConsoleApp1\\Data\\Configurations\\TweetConfiguration.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Data\\Configurations\\TweetConfiguration.cs",
+              "ToolTip": "D:\\EntityFrameworkCore\\_03_Configuration\\_04_OverrideConfigurationByUsingGrouping\\ConsoleApp1\\ConsoleApp1\\Data\\Configurations\\TweetConfiguration.cs",
+              "RelativeToolTip": "ConsoleApp1\\Data\\Configurations\\TweetConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T14:27:40.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CommentConfiguration.cs",
+              "DocumentMoniker": "D:\\EntityFrameworkCore\\_03_Configuration\\_04_OverrideConfigurationByUsingGrouping\\ConsoleApp1\\ConsoleApp1\\Data\\Configurations\\CommentConfiguration.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Data\\Configurations\\CommentConfiguration.cs",
+              "ToolTip": "D:\\EntityFrameworkCore\\_03_Configuration\\_04_OverrideConfigurationByUsingGrouping\\ConsoleApp1\\ConsoleApp1\\Data\\Configurations\\CommentConfiguration.cs",
+              "RelativeToolTip": "ConsoleApp1\\Data\\Configurations\\CommentConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T14:27:38.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\EntityFrameworkCore\\_03_Configuration\\_04_OverrideConfigurationByUsingGrouping\\ConsoleApp1\\ConsoleApp1\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
               "ToolTip": "D:\\EntityFrameworkCore\\_03_Configuration\\_04_OverrideConfigurationByUsingGrouping\\ConsoleApp1\\ConsoleApp1\\Program.cs",
               "RelativeToolTip": "ConsoleApp1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-22T14:26:54.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ConsoleApp1",
+              "DocumentMoniker": "D:\\EntityFrameworkCore\\_03_Configuration\\_04_OverrideConfigurationByUsingGrouping\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+              "RelativeDocumentMoniker": "ConsoleApp1\\ConsoleApp1.csproj",
+              "ToolTip": "D:\\EntityFrameworkCore\\_03_Configuration\\_04_OverrideConfigurationByUsingGrouping\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+              "RelativeToolTip": "ConsoleApp1\\ConsoleApp1.csproj",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAiwB8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-22T14:26:59.119Z",
               "EditorCaption": ""
             }
           ]

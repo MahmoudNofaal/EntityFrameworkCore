@@ -5,6 +5,10 @@ using UsingDependencyInjection.Data;
 
 namespace UsingDependencyInjection;
 
+/// Dependency Injection(DI)
+/// lets automatically creates and dispose DbContext instances for us.
+/// -> We reigster the DbContext in PRogram.cs
+
 internal class Program
 {
    static void Main(string[] args)

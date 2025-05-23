@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\EntityFrameworkCore\\_04_Scaffold\\_01_ReverseEngineering\\ConsoleApp1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9EEF2922-922E-40B9-9C6D-E477B4D3446C}|ConsoleApp1\\ConsoleApp1.csproj|d:\\entityframeworkcore\\_04_scaffold\\_01_reverseengineering\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EEF2922-922E-40B9-9C6D-E477B4D3446C}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9EEF2922-922E-40B9-9C6D-E477B4D3446C}|ConsoleApp1\\ConsoleApp1.csproj|d:\\entityframeworkcore\\_04_scaffold\\_01_reverseengineering\\consoleapp1\\consoleapp1\\techtalkcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9EEF2922-922E-40B9-9C6D-E477B4D3446C}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\techtalkcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,10 +17,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{9EEF2922-922E-40B9-9C6D-E477B4D3446C}|ConsoleApp1\\ConsoleApp1.csproj|d:\\entityframeworkcore\\_04_scaffold\\_01_reverseengineering\\consoleapp1\\consoleapp1\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9EEF2922-922E-40B9-9C6D-E477B4D3446C}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9EEF2922-922E-40B9-9C6D-E477B4D3446C}|ConsoleApp1\\ConsoleApp1.csproj|d:\\entityframeworkcore\\_04_scaffold\\_01_reverseengineering\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9EEF2922-922E-40B9-9C6D-E477B4D3446C}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9EEF2922-922E-40B9-9C6D-E477B4D3446C}|ConsoleApp1\\ConsoleApp1.csproj|d:\\entityframeworkcore\\_04_scaffold\\_01_reverseengineering\\consoleapp1\\consoleapp1\\consoleapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 14,
           "Children": [
             {
               "$type": "Bookmark",
@@ -74,7 +74,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "TechTalkContext.cs",
               "DocumentMoniker": "D:\\EntityFrameworkCore\\_04_Scaffold\\_01_ReverseEngineering\\ConsoleApp1\\ConsoleApp1\\TechTalkContext.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\TechTalkContext.cs",
@@ -87,7 +87,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Speaker.cs",
               "DocumentMoniker": "D:\\EntityFrameworkCore\\_04_Scaffold\\_01_ReverseEngineering\\ConsoleApp1\\ConsoleApp1\\Speaker.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\Speaker.cs",
@@ -100,7 +100,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Event.cs",
               "DocumentMoniker": "D:\\EntityFrameworkCore\\_04_Scaffold\\_01_ReverseEngineering\\ConsoleApp1\\ConsoleApp1\\Event.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\Event.cs",
@@ -126,13 +126,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\EntityFrameworkCore\\_04_Scaffold\\_01_ReverseEngineering\\ConsoleApp1\\ConsoleApp1\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
               "ToolTip": "D:\\EntityFrameworkCore\\_04_Scaffold\\_01_ReverseEngineering\\ConsoleApp1\\ConsoleApp1\\Program.cs",
               "RelativeToolTip": "ConsoleApp1\\Program.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACMAAAAAAAAAAAAYwC0AAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-22T14:28:45.898Z",
               "EditorCaption": ""

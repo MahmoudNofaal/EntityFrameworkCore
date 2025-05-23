@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5XmARH7tPhI=",
+  "dgSpecHash": "d75Gy2pJ5Ik=",
   "success": true,
-  "projectFilePath": "D:\\EntityFrameworkCore\\_01_IntroToEFCore\\_01_EFCoreStart\\EF_Start\\EF_Start\\EF_Start.csproj",
+  "projectFilePath": "D:\\WORK\\Backend\\.Net\\Materials Codes\\EntityFrameworkCore\\_01_IntroToEFCore\\_01_EFCoreStart\\EF_Start\\EF_Start\\EF_Start.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\AFAQE\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\AFAQE\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+74cjfXEJ0w=",
+  "dgSpecHash": "Ed82iytiGGA=",
   "success": true,
-  "projectFilePath": "D:\\EntityFrameworkCore\\_05_Mapping\\_04_MappingView\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "projectFilePath": "D:\\WORK\\Backend\\.Net\\Materials Codes\\EntityFrameworkCore\\_05_Mapping\\_04_MappingView\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\AFAQE\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\AFAQE\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

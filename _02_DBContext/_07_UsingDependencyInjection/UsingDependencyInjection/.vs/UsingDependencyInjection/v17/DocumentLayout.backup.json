@@ -1,28 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\EntityFrameworkCore\\_02_DBContext\\_07_UsingDependencyInjection\\UsingDependencyInjection\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{6BB972F3-1FC1-4539-A7DF-5D36F0FEDA33}|UsingDependencyInjection\\UsingDependencyInjection.csproj|d:\\entityframeworkcore\\_02_dbcontext\\_07_usingdependencyinjection\\usingdependencyinjection\\usingdependencyinjection\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{6BB972F3-1FC1-4539-A7DF-5D36F0FEDA33}|UsingDependencyInjection\\UsingDependencyInjection.csproj|solutionrelative:usingdependencyinjection\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6BB972F3-1FC1-4539-A7DF-5D36F0FEDA33}|UsingDependencyInjection\\UsingDependencyInjection.csproj|d:\\entityframeworkcore\\_02_dbcontext\\_07_usingdependencyinjection\\usingdependencyinjection\\usingdependencyinjection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6BB972F3-1FC1-4539-A7DF-5D36F0FEDA33}|UsingDependencyInjection\\UsingDependencyInjection.csproj|solutionrelative:usingdependencyinjection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6BB972F3-1FC1-4539-A7DF-5D36F0FEDA33}|UsingDependencyInjection\\UsingDependencyInjection.csproj|d:\\entityframeworkcore\\_02_dbcontext\\_07_usingdependencyinjection\\usingdependencyinjection\\usingdependencyinjection\\entities\\wallet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6BB972F3-1FC1-4539-A7DF-5D36F0FEDA33}|UsingDependencyInjection\\UsingDependencyInjection.csproj|solutionrelative:usingdependencyinjection\\entities\\wallet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6BB972F3-1FC1-4539-A7DF-5D36F0FEDA33}|UsingDependencyInjection\\UsingDependencyInjection.csproj|d:\\entityframeworkcore\\_02_dbcontext\\_07_usingdependencyinjection\\usingdependencyinjection\\usingdependencyinjection\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6BB972F3-1FC1-4539-A7DF-5D36F0FEDA33}|UsingDependencyInjection\\UsingDependencyInjection.csproj|solutionrelative:usingdependencyinjection\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6BB972F3-1FC1-4539-A7DF-5D36F0FEDA33}|UsingDependencyInjection\\UsingDependencyInjection.csproj|d:\\entityframeworkcore\\_02_dbcontext\\_07_usingdependencyinjection\\usingdependencyinjection\\usingdependencyinjection\\usingdependencyinjection.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{6BB972F3-1FC1-4539-A7DF-5D36F0FEDA33}|UsingDependencyInjection\\UsingDependencyInjection.csproj|solutionrelative:usingdependencyinjection\\usingdependencyinjection.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 1,
@@ -30,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -71,67 +50,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\EntityFrameworkCore\\_02_DBContext\\_07_UsingDependencyInjection\\UsingDependencyInjection\\UsingDependencyInjection\\appsettings.json",
-              "RelativeDocumentMoniker": "UsingDependencyInjection\\appsettings.json",
-              "ToolTip": "D:\\EntityFrameworkCore\\_02_DBContext\\_07_UsingDependencyInjection\\UsingDependencyInjection\\UsingDependencyInjection\\appsettings.json",
-              "RelativeToolTip": "UsingDependencyInjection\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-22T13:41:27.333Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Wallet.cs",
-              "DocumentMoniker": "D:\\EntityFrameworkCore\\_02_DBContext\\_07_UsingDependencyInjection\\UsingDependencyInjection\\UsingDependencyInjection\\Entities\\Wallet.cs",
-              "RelativeDocumentMoniker": "UsingDependencyInjection\\Entities\\Wallet.cs",
-              "ToolTip": "D:\\EntityFrameworkCore\\_02_DBContext\\_07_UsingDependencyInjection\\UsingDependencyInjection\\UsingDependencyInjection\\Entities\\Wallet.cs",
-              "RelativeToolTip": "UsingDependencyInjection\\Entities\\Wallet.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T13:41:18.348Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "D:\\EntityFrameworkCore\\_02_DBContext\\_07_UsingDependencyInjection\\UsingDependencyInjection\\UsingDependencyInjection\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "UsingDependencyInjection\\Data\\AppDbContext.cs",
-              "ToolTip": "D:\\EntityFrameworkCore\\_02_DBContext\\_07_UsingDependencyInjection\\UsingDependencyInjection\\UsingDependencyInjection\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "UsingDependencyInjection\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T13:41:15.115Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UsingDependencyInjection.csproj",
-              "DocumentMoniker": "D:\\EntityFrameworkCore\\_02_DBContext\\_07_UsingDependencyInjection\\UsingDependencyInjection\\UsingDependencyInjection\\UsingDependencyInjection.csproj",
-              "RelativeDocumentMoniker": "UsingDependencyInjection\\UsingDependencyInjection.csproj",
-              "ToolTip": "D:\\EntityFrameworkCore\\_02_DBContext\\_07_UsingDependencyInjection\\UsingDependencyInjection\\UsingDependencyInjection\\UsingDependencyInjection.csproj",
-              "RelativeToolTip": "UsingDependencyInjection\\UsingDependencyInjection.csproj",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAiwB8AAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-22T13:40:40.13Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\EntityFrameworkCore\\_02_DBContext\\_07_UsingDependencyInjection\\UsingDependencyInjection\\UsingDependencyInjection\\Program.cs",
-              "RelativeDocumentMoniker": "UsingDependencyInjection\\Program.cs",
-              "ToolTip": "D:\\EntityFrameworkCore\\_02_DBContext\\_07_UsingDependencyInjection\\UsingDependencyInjection\\UsingDependencyInjection\\Program.cs",
-              "RelativeToolTip": "UsingDependencyInjection\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T13:40:32.452Z"
             }
           ]
         },

@@ -2,6 +2,13 @@
 
 namespace ConsoleApp1;
 
+/// Using Fluent API: [offering more control than conventions or data annotations]
+/// -> Use methods like HasKey, HasMany, or Property to define mappings,
+///    relationships, and constraints.
+///* When to Use:
+///  Best for complex mappings, like defining relationships or specific settings.
+///    
+
 internal class Program
 {
    static void Main(string[] args)

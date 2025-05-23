@@ -7,17 +7,18 @@ namespace ExternalConfiguration;
 internal class Program
 {
    /// External Configuration
-   /// * It means invloves loading the connection string from appsettings.json outside
-   ///   the DbContext code.
-   /// * Useful for 
+   /// * It means setting up our DbContext outside the class, like telling which database to
+   ///   use or where to find the connection string.
+   ///   
 
 
    static void Main(string[] args)
    {
 
+      // confugure DbContext on program.cs
       var configuration = new ConfigurationBuilder()
-                              .AddJsonFile("appsettings.json")
-                              .Build();
+                             .AddJsonFile("appsettings.json")
+                             .Build();
 
       var connectionString = configuration.GetSection("constr").Value;
 

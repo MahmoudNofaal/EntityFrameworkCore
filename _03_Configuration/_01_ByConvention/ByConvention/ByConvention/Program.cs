@@ -2,6 +2,27 @@
 
 namespace ByConvention;
 
+/// Configuration in EFCOre determines how our models be translated in the database
+/// 
+/// By Convention [EF Core assumes defaults]
+/// -> Class names become table names (Book -> Book table)
+/// -> Properties become columns with matching names and types.
+/// -> PRoperties named Id or [classname]Id (ex: CategoryId) are primary key.
+/// -> Properties referencing another class (Category Category) become foreign keys
+/// 
+///  public int Id { get; set; } // Primary key by convention
+///  public int CategoryId { get; set; } // Foreign key by convention
+///  public Category Category { get; set; } // Navigation property
+///  public List<Book> Books { get; set; } // Navigation property
+/// 
+/// * When to Use:
+///- Ideal for quick simple apps where defaults are sufficient.
+/// 
+/// 
+
+
+
+
 internal class Program
 {
    

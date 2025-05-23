@@ -1,7 +1,12 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\EntityFrameworkCore\\_01_IntroToEFCore\\_01_EFCoreStart\\EF_Start\\",
-  "Documents": [],
+  "WorkspaceRootPath": "D:\\WORK\\Backend\\.Net\\Materials Codes\\EntityFrameworkCore\\_01_IntroToEFCore\\_01_EFCoreStart\\EF_Start\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AAC71679-FD03-4C40-B423-646EAB6AAD64}|EF_Start\\EF_Start.csproj|d:\\work\\backend\\.net\\materials codes\\entityframeworkcore\\_01_introtoefcore\\_01_efcorestart\\ef_start\\ef_start\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAC71679-FD03-4C40-B423-646EAB6AAD64}|EF_Start\\EF_Start.csproj|solutionrelative:ef_start\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 1,
@@ -9,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,6 +55,19 @@
             {
               "$type": "Bookmark",
               "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\WORK\\Backend\\.Net\\Materials Codes\\EntityFrameworkCore\\_01_IntroToEFCore\\_01_EFCoreStart\\EF_Start\\EF_Start\\Program.cs",
+              "RelativeDocumentMoniker": "EF_Start\\Program.cs",
+              "ToolTip": "D:\\WORK\\Backend\\.Net\\Materials Codes\\EntityFrameworkCore\\_01_IntroToEFCore\\_01_EFCoreStart\\EF_Start\\EF_Start\\Program.cs",
+              "RelativeToolTip": "EF_Start\\Program.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAYwBUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T22:57:00.826Z",
+              "EditorCaption": ""
             }
           ]
         },

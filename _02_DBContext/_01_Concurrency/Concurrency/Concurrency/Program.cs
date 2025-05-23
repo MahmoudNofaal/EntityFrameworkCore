@@ -8,8 +8,8 @@ namespace Concurrency;
 internal class Program
 {
    /// Concurrency refers to:
-   /// * It handles situations where multiple users or processes attempt to
-   ///   modify the same data simulationeusly
+   /// * It handles situations where multiple users or processes attempt to modify the same data
+   ///   simulationeusly.
    /// * EFCore uses optimistic concurrency by default.
 
    static void Main(string[] args)
@@ -59,8 +59,8 @@ internal class Program
 
             firstWallet02.Balance += 200;
 
-            _context02.SaveChanges()
-               ;
+            _context02.SaveChanges();
+
             Console.WriteLine("Conflict resolved, new balance: " + firstWallet02);
 
          }

@@ -3,6 +3,9 @@ using ConsoleApp1.Data;
 
 namespace ConsoleApp1;
 
+/// Data Annotations: [attributes we add to our models to overiide conventions]
+/// -> like [Key], [Required], [Table], we use to customize mapping directly in our classes
+
 internal class Program
 {
    static void Main(string[] args)

@@ -1,22 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\EntityFrameworkCore\\_02_DBContext\\_01_Concurrency\\Concurrency\\",
+  "WorkspaceRootPath": "D:\\WORK\\Backend\\.Net\\Materials Codes\\EntityFrameworkCore\\_02_DBContext\\_01_Concurrency\\Concurrency\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8EAD9676-CED0-46B9-BE51-9A48DA44B593}|Concurrency\\Concurrency.csproj|d:\\entityframeworkcore\\_02_dbcontext\\_01_concurrency\\concurrency\\concurrency\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8EAD9676-CED0-46B9-BE51-9A48DA44B593}|Concurrency\\Concurrency.csproj|d:\\work\\backend\\.net\\materials codes\\entityframeworkcore\\_02_dbcontext\\_01_concurrency\\concurrency\\concurrency\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8EAD9676-CED0-46B9-BE51-9A48DA44B593}|Concurrency\\Concurrency.csproj|solutionrelative:concurrency\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8EAD9676-CED0-46B9-BE51-9A48DA44B593}|Concurrency\\Concurrency.csproj|d:\\entityframeworkcore\\_02_dbcontext\\_01_concurrency\\concurrency\\concurrency\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{8EAD9676-CED0-46B9-BE51-9A48DA44B593}|Concurrency\\Concurrency.csproj|solutionrelative:concurrency\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8EAD9676-CED0-46B9-BE51-9A48DA44B593}|Concurrency\\Concurrency.csproj|d:\\entityframeworkcore\\_02_dbcontext\\_01_concurrency\\concurrency\\concurrency\\entities\\wallet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8EAD9676-CED0-46B9-BE51-9A48DA44B593}|Concurrency\\Concurrency.csproj|solutionrelative:concurrency\\entities\\wallet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8EAD9676-CED0-46B9-BE51-9A48DA44B593}|Concurrency\\Concurrency.csproj|d:\\entityframeworkcore\\_02_dbcontext\\_01_concurrency\\concurrency\\concurrency\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8EAD9676-CED0-46B9-BE51-9A48DA44B593}|Concurrency\\Concurrency.csproj|solutionrelative:concurrency\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -72,52 +60,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\EntityFrameworkCore\\_02_DBContext\\_01_Concurrency\\Concurrency\\Concurrency\\Program.cs",
+              "DocumentMoniker": "D:\\WORK\\Backend\\.Net\\Materials Codes\\EntityFrameworkCore\\_02_DBContext\\_01_Concurrency\\Concurrency\\Concurrency\\Program.cs",
               "RelativeDocumentMoniker": "Concurrency\\Program.cs",
-              "ToolTip": "D:\\EntityFrameworkCore\\_02_DBContext\\_01_Concurrency\\Concurrency\\Concurrency\\Program.cs",
+              "ToolTip": "D:\\WORK\\Backend\\.Net\\Materials Codes\\EntityFrameworkCore\\_02_DBContext\\_01_Concurrency\\Concurrency\\Concurrency\\Program.cs",
               "RelativeToolTip": "Concurrency\\Program.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAuwBEAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T13:24:43.588Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\EntityFrameworkCore\\_02_DBContext\\_01_Concurrency\\Concurrency\\Concurrency\\appsettings.json",
-              "RelativeDocumentMoniker": "Concurrency\\appsettings.json",
-              "ToolTip": "D:\\EntityFrameworkCore\\_02_DBContext\\_01_Concurrency\\Concurrency\\Concurrency\\appsettings.json",
-              "RelativeToolTip": "Concurrency\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-22T13:24:42.126Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Wallet.cs",
-              "DocumentMoniker": "D:\\EntityFrameworkCore\\_02_DBContext\\_01_Concurrency\\Concurrency\\Concurrency\\Entities\\Wallet.cs",
-              "RelativeDocumentMoniker": "Concurrency\\Entities\\Wallet.cs",
-              "ToolTip": "D:\\EntityFrameworkCore\\_02_DBContext\\_01_Concurrency\\Concurrency\\Concurrency\\Entities\\Wallet.cs",
-              "RelativeToolTip": "Concurrency\\Entities\\Wallet.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T13:24:38.788Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "D:\\EntityFrameworkCore\\_02_DBContext\\_01_Concurrency\\Concurrency\\Concurrency\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Concurrency\\Data\\AppDbContext.cs",
-              "ToolTip": "D:\\EntityFrameworkCore\\_02_DBContext\\_01_Concurrency\\Concurrency\\Concurrency\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "Concurrency\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T13:24:34.372Z",
+              "WhenOpened": "2025-05-22T23:05:25.227Z",
               "EditorCaption": ""
             }
           ]

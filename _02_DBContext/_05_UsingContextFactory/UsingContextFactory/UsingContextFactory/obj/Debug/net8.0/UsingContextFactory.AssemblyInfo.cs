@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UsingContextFactory")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+44d10b1c3f2525441780d9e1f1ba545212d45962")]
 [assembly: System.Reflection.AssemblyProductAttribute("UsingContextFactory")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UsingContextFactory")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

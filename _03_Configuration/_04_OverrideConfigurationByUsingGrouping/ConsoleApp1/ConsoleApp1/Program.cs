@@ -2,6 +2,16 @@
 
 namespace ConsoleApp1;
 
+/// Using Grouping Configuration:
+/// [organizes Fluent API settings into separate classes to keep DbContext clean and maintainable.]
+/// 
+/// -> Instead of putting all Fluent API code in OnModelCreating,
+///    we create IEntityTypeConfiguration<T> classes for each entity to define its configurations.
+///    
+/// When to Use:
+/// Ideal for large projects with complex models or when we want to separate configuration logic.
+/// 
+
 internal class Program
 {
    static void Main(string[] args)

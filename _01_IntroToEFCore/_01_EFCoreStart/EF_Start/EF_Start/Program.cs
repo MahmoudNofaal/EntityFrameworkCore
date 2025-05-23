@@ -4,6 +4,26 @@ using EF_Start.Entities;
 
 namespace EF_Start;
 
+/// EFCore: is a lightweight, extensible, open-source, and cross platform
+/// Object Relational Mapping(ORM) framework, developed by Microsoft for .NET application.
+/// 
+/// - EFCore serves as a bridge between our application object-oriented code and relational
+///   database, allowing us to work with data using C# objects instead or writing raw sql queries.
+/// 
+
+/*
+ * 
+ What It Does?:
+- Maps database tables to C# classes (entities).
+- Supports LINQ for type-safe querying.
+- Tracks changes and generates SQL for CRUD operations.
+- Manages database schemas via migrations.
+- Handles relationships (ex, one-to-many) and supports multiple
+  databases (SQL Server, SQLite, PostgreSQL).
+
+
+ */
+
 internal class Program
 {
 

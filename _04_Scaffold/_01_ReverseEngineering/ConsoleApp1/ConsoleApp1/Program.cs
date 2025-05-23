@@ -1,6 +1,15 @@
 ﻿
 namespace ConsoleApp1;
 
+/// Scaffolding
+///- It is a process of reverse-engineering a database schema to generate C# class,
+///  navigation propertiy, and a DbContext class that maps to the database.
+///  
+/// Why it important:
+/// Saves time when working with existing databases tp ensure models match the schema exactly.
+///  
+///  
+
 internal class Program
 {
    ///STEP01: Package Manager Console (PMC)

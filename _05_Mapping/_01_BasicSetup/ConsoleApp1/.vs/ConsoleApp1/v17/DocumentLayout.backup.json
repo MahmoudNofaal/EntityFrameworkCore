@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\EntityFrameworkCore\\_05_Mapping\\_01_BasicSetup\\ConsoleApp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9CE40986-2B02-449C-8F3F-DAB439F341D4}|ConsoleApp1\\ConsoleApp1.csproj|d:\\entityframeworkcore\\_05_mapping\\_01_basicsetup\\consoleapp1\\consoleapp1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{9CE40986-2B02-449C-8F3F-DAB439F341D4}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9CE40986-2B02-449C-8F3F-DAB439F341D4}|ConsoleApp1\\ConsoleApp1.csproj|d:\\entityframeworkcore\\_05_mapping\\_01_basicsetup\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9CE40986-2B02-449C-8F3F-DAB439F341D4}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CE40986-2B02-449C-8F3F-DAB439F341D4}|ConsoleApp1\\ConsoleApp1.csproj|d:\\entityframeworkcore\\_05_mapping\\_01_basicsetup\\consoleapp1\\consoleapp1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9CE40986-2B02-449C-8F3F-DAB439F341D4}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9CE40986-2B02-449C-8F3F-DAB439F341D4}|ConsoleApp1\\ConsoleApp1.csproj|d:\\entityframeworkcore\\_05_mapping\\_01_basicsetup\\consoleapp1\\consoleapp1\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 15,
           "Children": [
             {
               "$type": "Bookmark",
@@ -78,7 +78,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\EntityFrameworkCore\\_05_Mapping\\_01_BasicSetup\\ConsoleApp1\\ConsoleApp1\\appsettings.json",
               "RelativeDocumentMoniker": "ConsoleApp1\\appsettings.json",
@@ -143,13 +143,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\EntityFrameworkCore\\_05_Mapping\\_01_BasicSetup\\ConsoleApp1\\ConsoleApp1\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
-              "ToolTip": "D:\\EntityFrameworkCore\\_05_Mapping\\_01_BasicSetup\\ConsoleApp1\\ConsoleApp1\\Program.cs*",
-              "RelativeToolTip": "ConsoleApp1\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
+              "ToolTip": "D:\\EntityFrameworkCore\\_05_Mapping\\_01_BasicSetup\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-22T14:32:58.875Z",
               "EditorCaption": ""

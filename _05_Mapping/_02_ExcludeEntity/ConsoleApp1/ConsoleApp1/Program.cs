@@ -2,6 +2,13 @@
 
 namespace ConsoleApp1;
 
+/// Exclude Entity
+///- It means prevents them from being mapped to the database
+///
+///-> we use attributes or FluentAPI yo execlude entire class or specific properties
+///   from database.
+///-> it benefite to keep database clean and has the only things important.
+
 internal class Program
 {
    static void Main(string[] args)

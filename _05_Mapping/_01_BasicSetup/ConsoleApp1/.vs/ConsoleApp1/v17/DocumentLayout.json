@@ -1,30 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\EntityFrameworkCore\\_05_Mapping\\_01_BasicSetup\\ConsoleApp1\\",
+  "WorkspaceRootPath": "D:\\WORK\\Backend\\.Net\\Materials Codes\\EntityFrameworkCore\\_05_Mapping\\_01_BasicSetup\\ConsoleApp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9CE40986-2B02-449C-8F3F-DAB439F341D4}|ConsoleApp1\\ConsoleApp1.csproj|d:\\entityframeworkcore\\_05_mapping\\_01_basicsetup\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9CE40986-2B02-449C-8F3F-DAB439F341D4}|ConsoleApp1\\ConsoleApp1.csproj|d:\\work\\backend\\.net\\materials codes\\entityframeworkcore\\_05_mapping\\_01_basicsetup\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9CE40986-2B02-449C-8F3F-DAB439F341D4}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9CE40986-2B02-449C-8F3F-DAB439F341D4}|ConsoleApp1\\ConsoleApp1.csproj|d:\\entityframeworkcore\\_05_mapping\\_01_basicsetup\\consoleapp1\\consoleapp1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{9CE40986-2B02-449C-8F3F-DAB439F341D4}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9CE40986-2B02-449C-8F3F-DAB439F341D4}|ConsoleApp1\\ConsoleApp1.csproj|d:\\entityframeworkcore\\_05_mapping\\_01_basicsetup\\consoleapp1\\consoleapp1\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9CE40986-2B02-449C-8F3F-DAB439F341D4}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9CE40986-2B02-449C-8F3F-DAB439F341D4}|ConsoleApp1\\ConsoleApp1.csproj|d:\\entityframeworkcore\\_05_mapping\\_01_basicsetup\\consoleapp1\\consoleapp1\\entities\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9CE40986-2B02-449C-8F3F-DAB439F341D4}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\entities\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9CE40986-2B02-449C-8F3F-DAB439F341D4}|ConsoleApp1\\ConsoleApp1.csproj|d:\\entityframeworkcore\\_05_mapping\\_01_basicsetup\\consoleapp1\\consoleapp1\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9CE40986-2B02-449C-8F3F-DAB439F341D4}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9CE40986-2B02-449C-8F3F-DAB439F341D4}|ConsoleApp1\\ConsoleApp1.csproj|d:\\entityframeworkcore\\_05_mapping\\_01_basicsetup\\consoleapp1\\consoleapp1\\consoleapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{9CE40986-2B02-449C-8F3F-DAB439F341D4}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\consoleapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 15,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -78,80 +58,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\EntityFrameworkCore\\_05_Mapping\\_01_BasicSetup\\ConsoleApp1\\ConsoleApp1\\appsettings.json",
-              "RelativeDocumentMoniker": "ConsoleApp1\\appsettings.json",
-              "ToolTip": "D:\\EntityFrameworkCore\\_05_Mapping\\_01_BasicSetup\\ConsoleApp1\\ConsoleApp1\\appsettings.json",
-              "RelativeToolTip": "ConsoleApp1\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-22T14:33:52.952Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Product.cs",
-              "DocumentMoniker": "D:\\EntityFrameworkCore\\_05_Mapping\\_01_BasicSetup\\ConsoleApp1\\ConsoleApp1\\Entities\\Product.cs",
-              "RelativeDocumentMoniker": "ConsoleApp1\\Entities\\Product.cs",
-              "ToolTip": "D:\\EntityFrameworkCore\\_05_Mapping\\_01_BasicSetup\\ConsoleApp1\\ConsoleApp1\\Entities\\Product.cs",
-              "RelativeToolTip": "ConsoleApp1\\Entities\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T14:33:46.54Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "OrderDetail.cs",
-              "DocumentMoniker": "D:\\EntityFrameworkCore\\_05_Mapping\\_01_BasicSetup\\ConsoleApp1\\ConsoleApp1\\Entities\\OrderDetail.cs",
-              "RelativeDocumentMoniker": "ConsoleApp1\\Entities\\OrderDetail.cs",
-              "ToolTip": "D:\\EntityFrameworkCore\\_05_Mapping\\_01_BasicSetup\\ConsoleApp1\\ConsoleApp1\\Entities\\OrderDetail.cs",
-              "RelativeToolTip": "ConsoleApp1\\Entities\\OrderDetail.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T14:33:44.691Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "D:\\EntityFrameworkCore\\_05_Mapping\\_01_BasicSetup\\ConsoleApp1\\ConsoleApp1\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "ConsoleApp1\\Data\\AppDbContext.cs",
-              "ToolTip": "D:\\EntityFrameworkCore\\_05_Mapping\\_01_BasicSetup\\ConsoleApp1\\ConsoleApp1\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "ConsoleApp1\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T14:33:37.82Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ConsoleApp1",
-              "DocumentMoniker": "D:\\EntityFrameworkCore\\_05_Mapping\\_01_BasicSetup\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
-              "RelativeDocumentMoniker": "ConsoleApp1\\ConsoleApp1.csproj",
-              "ToolTip": "D:\\EntityFrameworkCore\\_05_Mapping\\_01_BasicSetup\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
-              "RelativeToolTip": "ConsoleApp1\\ConsoleApp1.csproj",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAiwB8AAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-22T14:33:04.617Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\EntityFrameworkCore\\_05_Mapping\\_01_BasicSetup\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "DocumentMoniker": "D:\\WORK\\Backend\\.Net\\Materials Codes\\EntityFrameworkCore\\_05_Mapping\\_01_BasicSetup\\ConsoleApp1\\ConsoleApp1\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
-              "ToolTip": "D:\\EntityFrameworkCore\\_05_Mapping\\_01_BasicSetup\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "ToolTip": "D:\\WORK\\Backend\\.Net\\Materials Codes\\EntityFrameworkCore\\_05_Mapping\\_01_BasicSetup\\ConsoleApp1\\ConsoleApp1\\Program.cs",
               "RelativeToolTip": "ConsoleApp1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T14:32:58.875Z",
+              "WhenOpened": "2025-05-22T23:51:25.769Z",
               "EditorCaption": ""
             }
           ]
